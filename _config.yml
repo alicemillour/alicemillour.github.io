@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alice Millour"
   avatar           : "profile.jpg"
-  bio              : "Doctor in Computer Science"
+  bio              : "Doctor in Computer Science \n Temporary Research and Teaching Attaché (ATER)"
   location         : "Paris"
-  employer         :
+  employer         : "Sorbonne Université"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=lkCh7A8AAAAJ&hl=fr"
-  email            :
+  email            : "alice.millour at sorbonne-universite.fr"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
