@@ -36,8 +36,8 @@ author_profile: true
 * 26 avril : Séminaire invité «<i>Recherches linguistiques et corpus</i>» organisé par Franck Neveu à l'Université Paris Sorbonne :  « Construire un corpus annoté pour une langue peu dotée : annotation collaborative en partie du discours d'un corpus de l'alsacien.»
 <!-- 2016 -->
 <h4 id="2016">2016</h4>
-* My master's degree thesis is available [here ![Master's Thesis(French)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/2016_alsatian_master_thesis.pdf) (French only).            
-
+<!-- * My master's degree thesis is available [here ![Master's Thesis(French)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/2016_alsatian_master_thesis.pdf) (French only).            
+-->
 
 
 {% include base_path %}
