@@ -2,19 +2,45 @@
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2020-2021-teaching-1
+venue: "Sorbonne Université"
+date: 2019-2021
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+Théorie des langages (Grammaires formelles et Stochastiques)
+=====
+M1 (2019-2020) TD : 9.75 / CM : 9,75
 
-Heading 2
-======
+Modèles de linguistique computationnelle
+=====
+M1 (2020-21) TD : 9 / CM : 10,5
 
-Heading 3
-======
+
+
+Programmation de modèles linguistiques II (sémantique)
+=====
+L3 (2019-20 & 2020-21) TD : 24 / CM : 36
+
+
+
+Bases de données
+=====
+L3 TD : 52 / CM : 4,5
+
+Mathématiques et Statistiques (logiciel R)
+=====
+L3 (2020-21) TD : 19.5
+
+
+Ateliers professionnels Sciences du Langage 
+=====
+L1 (2019-20 & 2020-21) TD : 39
+
+
+
+Préparation au PIX (ancien C2i : tableur, présentations, outils collaboratifs)
+=====
+L1/L2/L3 (2019-20 & 2020-21) TD : 144 / CM : 27
+
