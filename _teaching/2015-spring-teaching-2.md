@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2020-2021-teaching-1
 venue: "Sorbonne Université"
-date: 2019-2021
+date: 2019
 location: "Paris, France"
 ---
 
