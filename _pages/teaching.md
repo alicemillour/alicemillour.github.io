@@ -18,11 +18,16 @@ Modèles de linguistique computationnelle
 M1 (2020-21) TD : 9 / CM : 10,5
 
 
-*Supports de cours personnels* : <a href="/assets/cours/PROG_M1.zip"> archive </a> 
+**Supports de cours personnels** : <a href="/assets/cours/PROG_M1.zip">archive.zip</a> 
 
 Programmation de modèles linguistiques II (sémantique)
 =====
 L3 (2019-20 & 2020-21) TD : 24 / CM : 36
+
+**Supports de cours personnels** : 
+ <a href="/assets/cours/PROG-L3_2019_MILLOUR.zip">archive.zip</a> 
+
+
 
 Bases de données
 =====
@@ -31,6 +36,7 @@ L3 TD : 52 / CM : 4,5
 Cours dispensés : supports de K. Fort (<a href="https://members.loria.fr/KFort/teaching/sorbonne/">lien</a>)
 
 **Supports de cours personnels** : 
+
 SQL (Encore plus loin) : <a href="/assets/cours/BasesDeDonn%C3%A9es_SQL_EncorePlusLoin.pdf"> cours </a> et <a href="/assets/cours/PIX_TD4_2020_MILLOUR.odp"> TD </a>   
 
 SQL : Scripts et vues : <a href="/assets/cours/BasesDeDonn%C3%A9es_SQL_scripts.pdf"> cours </a> 
