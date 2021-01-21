@@ -49,8 +49,7 @@ Sécuriser l’environnement numérique 1 : <a href="/assets/cours/PIX_CM4_2020_
 Sécuriser l’environnement numérique 2 : <a href="/assets/cours/PIX_CM5_2020_MILLOUR.odp"> cours </a> et <a href="/assets/cours/PIX_TD5_2020_MILLOUR.odp"> TD </a>   
 
 
-{% include base_path %}
-
+<!-- {% include base_path %}
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
