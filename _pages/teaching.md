@@ -44,11 +44,13 @@ SQL : Scripts et vues : <a href="/assets/cours/BasesDeDonn%C3%A9es_SQL_scripts.p
 Mathématiques et Statistiques (logiciel R)
 =====
 L3 (2020-21) TD : 19.5
+
 Cours dispensés : supports de C. Vincent.
 
 Ateliers professionnels Sciences du Langage 
 =====
 L1 (2019-20 & 2020-21) TD : 39
+
 Cours dispensés : supports de G. Lejeune.
 
 
