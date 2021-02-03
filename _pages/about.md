@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 After graduating from [ENSIMAG](http://ensimag.grenoble-inp.fr/welcome/) (<i>École Nationale Supérieure d'Informatique et de Mathématiques Appliquées</i>, a computer science and applied mathematics school of engineer) in 2015, I obtained a master's degree in NLP at Université Paris-Sorbonne.
-I am now a third year PhD candidate at 
-[Université Paris-Sorbonne](http://www.paris-sorbonne.fr/), 
+In 2020, I have defended my PhD in [Université Paris-Sorbonne](http://www.paris-sorbonne.fr/), 
 [STIH team](http://www.stih.paris-sorbonne.fr/), under the supervision of [Karën Fort](http://www.schplaf.org/kf/) and Claude Montacié.<br/>
 
 Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Millour_CV_en.pdf) [(fr) ![CV (fr)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
