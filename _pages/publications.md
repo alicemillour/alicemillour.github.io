@@ -8,6 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
+
 <!-- 2020 -->
 <h4 id="2020">2020</h4>
 * Alice Millour.  Répliquer et étendre pour l'alsacien "Étiquetage en parties du discours de langues peu dotées par spécialisation des plongements lexicaux". ETeRNAL 2, Atelier de JEP-TALN-RECITAL 2020, June 2020, JEP-TALN-RECITAL 2020, Nancy, France <a target="_blank" href="https://hal.archives-ouvertes.fr/hal-02750224v3"> → </a> <br> <br>
