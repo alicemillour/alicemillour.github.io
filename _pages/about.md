@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Postdoctoral researcher at Università Pascal Paoli, Corte, Corse (UMR CRNS 6240 LISA).
+
 After graduating from [ENSIMAG](http://ensimag.grenoble-inp.fr/welcome/) (<i>École Nationale Supérieure d'Informatique et de Mathématiques Appliquées</i>, a computer science and applied mathematics school of engineer) in 2015, I obtained a master's degree in NLP at Université Paris-Sorbonne.
 In 2020, I have defended my PhD in [Université Paris-Sorbonne](http://www.paris-sorbonne.fr/), 
 [STIH team](http://www.stih.paris-sorbonne.fr/), under the supervision of [Karën Fort](http://www.schplaf.org/kf/) and Claude Montacié.<br/>
@@ -29,6 +31,7 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 <div class="content">
 <h3><a name="activities"></a>Activities</h3>
 </div>
+* Reviewer for Games 2022 (The 9th Games and Natural Language Processing)
 * I have been invited to present my works during French webinar "L’évaluation des sciences et recherches participatives", organized by Science Ensemble, on July 5th 2021 (<a target="_blank" href="https://www.science-ensemble.org/upload/attachment/616991cacdceb523833628.pdf">Actes</a>)
 * Subreviewer for AAAI 2022
 * Subreviewer for AACL-IJCNLP 2020 
