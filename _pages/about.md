@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+millour_a @ univ-corse.fr
+
 Postdoctoral researcher at Università Pascal Paoli, Corte, Corse (UMR CRNS 6240 LISA).
 
 After graduating from [ENSIMAG](http://ensimag.grenoble-inp.fr/welcome/) (<i>École Nationale Supérieure d'Informatique et de Mathématiques Appliquées</i>, a computer science and applied mathematics school of engineer) in 2015, I obtained a master's degree in NLP at Université Paris-Sorbonne.

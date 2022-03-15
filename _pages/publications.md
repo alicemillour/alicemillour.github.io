@@ -10,6 +10,9 @@ author_profile: true
 {% endif %}
 
 <!-- 2020 -->
+<h4 id="2021">2021</h4>
+* Yoann Dupont, Carlos-Emiliano González-Gallardo, Gaël Lejeune, Alice Millour, Jean-Baptiste Tanguy. QUEER@DEFT2021 : Identification du Profil Clinique de Patients et Notation Automatique de Copies d’Étudiants (QUEER@DEFT2021 : Patients Clinical Profile Identification and Automatic Student Grading), Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles. Atelier DÉfi Fouille de Textes (DEFT)
+
 <h4 id="2020">2020</h4>
 * Alice Millour.  Répliquer et étendre pour l'alsacien "Étiquetage en parties du discours de langues peu dotées par spécialisation des plongements lexicaux". ETeRNAL 2, Atelier de JEP-TALN-RECITAL 2020, June 2020, JEP-TALN-RECITAL 2020, Nancy, France <a target="_blank" href="https://hal.archives-ouvertes.fr/hal-02750224v3"> → </a> <br> <br>
 * Alice Millour, Karën Fort and Pierre Magistry.  Répliquer et étendre pour l'alsacien "Étiquetage en parties du discours de langues peu dotées par spécialisation des plongements lexicaux". ETeRNAL 2, Atelier de JEP-TALN-RECITAL 2020, June 2020, JEP-TALN-RECITAL 2020, Nancy, France <a target="_blank" href="https://hal.archives-ouvertes.fr/hal-02750224v3"> → </a> <br> <br>
