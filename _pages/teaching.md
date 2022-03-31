@@ -52,6 +52,8 @@ L1 (2019-20 & 2020-21) TD : 39
 
 Cours dispensés : supports de G. Lejeune.
 
+Intervention en tant que professionnelle : <a href="/assets/pdfs/L2SOATEL_2020_Millour.pdf"> Une thèse en TAL -- Diversité linguistique, crowdsourcing et apprentissage
+automatique </a> 
 
 
 Préparation au PIX (ancien C2i : tableur, présentations, outils collaboratifs)
