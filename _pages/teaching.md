@@ -60,8 +60,8 @@ L1/L2/L3 (2019-20 & 2020-21) TD : 144 / CM : 27
 
 **Supports de cours personnels** : 
 
-* <a href="/assets/cours/PIX_CM4_2020_MILLOUR.odp">Sécuriser l’environnement numérique 1</a> (<a href="/assets/cours/PIX_TD4_2020_MILLOUR.odp">TD</a>)   
-* <a href="/assets/cours/PIX_CM5_2020_MILLOUR.odp">Sécuriser l’environnement numérique 2</a> (<a href="/assets/cours/PIX_TD5_2020_MILLOUR.odp">TD</a>)   
+* <a href="/assets/cours/PIX_CM4_2020_MILLOUR.odp">Sécuriser l’environnement numérique 1</a> (<a href="/assets/cours/PIX_TD4_2020_MILLOUR.odt">TD</a>)   
+* <a href="/assets/cours/PIX_CM5_2020_MILLOUR.odp">Sécuriser l’environnement numérique 2</a> (<a href="/assets/cours/PIX_TD5_2020_MILLOUR.odt">TD</a>)   
 * <a href="/assets/cours/PIX/pix_CM6S2_AM.odp">Programmer</a> 
 
 
