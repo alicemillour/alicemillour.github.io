@@ -38,6 +38,7 @@ Cours dispensés : supports de K. Fort (<a href="https://members.loria.fr/KFort/
 
 * <a href="/assets/cours/BasesDeDonn%C3%A9es_SQL_EncorePlusLoin.pdf">SQL (Encore plus loin)</a>
 * <a href="/assets/cours/BasesDeDonn%C3%A9es_SQL_scripts.pdf">SQL : Scripts et vues</a> 
+* <a href="/assets/cours/BDD/td_quete_SQL.pdf"> TD Quête spatiale et requêtes SQL </a> 
 
 Mathématiques et Statistiques (logiciel R)
 ------
@@ -61,6 +62,7 @@ L1/L2/L3 (2019-20 & 2020-21) TD : 144 / CM : 27
 
 * <a href="/assets/cours/PIX_CM4_2020_MILLOUR.odp">Sécuriser l’environnement numérique 1</a> (<a href="/assets/cours/PIX_TD4_2020_MILLOUR.odp">TD</a>)   
 * <a href="/assets/cours/PIX_CM5_2020_MILLOUR.odp">Sécuriser l’environnement numérique 2</a> (<a href="/assets/cours/PIX_TD5_2020_MILLOUR.odp">TD</a>)   
+* <a href="/assets/cours/PIX/pix_CM6S2_AM.odp">Programmer</a> 
 
 
 <!-- {% include base_path %}
