@@ -9,7 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<!-- 2020 -->
+<!-- 2022 -->
+<h4 id="2021">2022</h4>
+* Alice Millour, Yoann Dupont, Alexane Jouglar, Karën Fort. FENEC : un corpus à échantillons équilibrés pour l'évaluation des entités nommées en français. Actes de la 29e conférence sur le Traitement Automatique des Langues Naturelles (TALN), juin 2022, Avignon, France 
+<!-- 2021 -->
 <h4 id="2021">2021</h4>
 * Yoann Dupont, Carlos-Emiliano González-Gallardo, Gaël Lejeune, Alice Millour, Jean-Baptiste Tanguy. QUEER@DEFT2021 : Identification du Profil Clinique de Patients et Notation Automatique de Copies d’Étudiants (QUEER@DEFT2021 : Patients Clinical Profile Identification and Automatic Student Grading), Actes de la 28e Conférence sur le Traitement Automatique des Langues Naturelles. Atelier DÉfi Fouille de Textes (DEFT)
 
