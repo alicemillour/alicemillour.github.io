@@ -38,7 +38,7 @@ Cours dispensés : supports de K. Fort (<a href="https://members.loria.fr/KFort/
 
 * <a href="/assets/cours/BasesDeDonn%C3%A9es_SQL_EncorePlusLoin.pdf">SQL (Encore plus loin)</a>
 * <a href="/assets/cours/BasesDeDonn%C3%A9es_SQL_scripts.pdf">SQL : Scripts et vues</a> 
-* <a href="/assets/cours/BDD/td_quete_SQL.pdf"> TD Quête spatiale et requêtes SQL </a> 
+* <a href="/assets/cours/BDD/td_Galaxie_public.pdf"> TD Quête spatiale et requêtes SQL </a> <a href="Mise_en_place_TD_Galaxie.zip"> Archive pour la mise en place </a>.
 
 Mathématiques et Statistiques (logiciel R)
 ------
