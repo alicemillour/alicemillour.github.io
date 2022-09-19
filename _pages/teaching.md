@@ -9,7 +9,7 @@ author_profile: true
 <h2 id="2021">Méthodologie de la programmation</h2>
 
 
-CM1 <a href="/assets/cours/MdP_CM1_2022_2023">CM1</a> 
+- <a href="/assets/cours/MdP_CM1_2022_2023.pdf">CM1</a> 
 
 
 
