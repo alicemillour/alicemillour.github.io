@@ -1,19 +1,18 @@
 ---
 layout: archive
-title: "Enseignements "
+title: "2022-2023 Licence IV Université Paris Saint-Denis"
 permalink: /teaching/
 author_profile: true
 ---
 
 ------
-<h2 id="2021">Méthodologie de la programmation</h2>
 
+<a href="/mdp/"> Méthodologie de la programmation </a>
 
-- <a href="/assets/cours/MdP_CM1_2022_2023.pdf">CM1</a> 
+------
 
-
-
-
+<h1 id="Archive">2019-2021 Sorbonne Université</h1>
+<h3 id="licences">Licence SdL et Master Langue et Informatique </h3>
 ------
 Le volume horaire est indiqué en "heure équivalent TD" (HETD)
 
