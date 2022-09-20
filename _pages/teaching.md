@@ -11,6 +11,11 @@ author_profile: true
 
 ------
 
+<a href="/pdm/"> Pratique des machines </a>
+
+------
+
+
 <h1 id="Archive">2019-2021 Sorbonne Université</h1>
 <h3 id="licences">Licence SdL et Master Langue et Informatique </h3>
 ------
