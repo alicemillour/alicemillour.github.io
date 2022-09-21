@@ -39,7 +39,7 @@ void is_mult3_reste(int n){
 
 int main() {
   int n=100;
-  print("Programme MdP_demo.c")
+  printf("Programme MdP_demo.c");
   printf("calcul du résultat par la première méthode :\n");
   is_mult3_liste(n);
   printf("calcul du résultat par la seconde méthode :\n");
