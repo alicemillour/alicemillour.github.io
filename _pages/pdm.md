@@ -10,4 +10,5 @@ author_profile: true
 
 
 - <a href="/assets/cours/PdM/PdM_2223_TP1.pdf">TP1</a> 
+- <a href="/assets/cours/PdM/PdM_2223_TP1_corrige.pdf">TP1_corrige</a> 
 - <a href="/assets/cours/PdM/PdM_2223_TP1.zip">PdM_2223_TP1.zip</a> 

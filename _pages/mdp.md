@@ -12,4 +12,5 @@ author_profile: true
 - <a href="/assets/cours/MdP/MdP_2223_CM1.pdf">CM1</a> 
 - <a href="/assets/cours/MdP/MdP_demo.zip">fichiers démo python et C</a> 
 - <a href="/assets/cours/MdP/MdP_2223_TP1.pdf">TP1</a> 
+- <a href="/assets/cours/MdP/MdP_2223_TP1_corrige.pdf">TP1 - corrigé</a> 
 - <a href="/assets/cours/MdP/MdP_2223_TP1.zip">MdP_2223_TP1.zip</a> 
