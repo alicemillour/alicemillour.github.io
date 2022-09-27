@@ -18,3 +18,4 @@ author_profile: true
 <h3 id="2021">Programmation impérative avec python</h3>
 - <a href="/assets/cours/MdP/MdP_2223_CM2.pdf">CM2</a> 
 - <a href="/assets/cours/MdP/configurer_gedit.pdf">Configurer gedit</a> 
+- <a href="/assets/cours/MdP/MdP_2223_TP2.pdf">TP2</a> 
