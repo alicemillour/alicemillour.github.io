@@ -9,6 +9,8 @@ author_profile: true
 <h2 id="2021">Pratique des machines</h2>
 
 
+- <a href="/assets/cours/PdM/PdM_2223_TP3.pdf">TP3</a> 
+
 - <a href="/assets/cours/PdM/PdM_2223_TP2.pdf">TP2</a> 
 
 - <a href="/assets/cours/PdM/PdM_2223_TP1.pdf">TP1</a> 

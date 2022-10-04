@@ -1,0 +1,660 @@
+\documentclass[hyperref={pdfpagelabels=false},xcolor=dvipsnames,10pt]{beamer}
+
+\usepackage[default]{raleway}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+
+\usepackage{csvsimple}
+\usepackage{pgfplots} % loads tikz
+%\pgfplotsset{compat=1.18}
+\usetikzlibrary{shapes}
+\usepackage{tikz}
+\usepackage{listings}
+\usepackage{fancyvrb}
+
+\usepackage{amssymb}
+\usepackage{ifthen}
+\usepackage{pgfplots}
+\usepackage{appendixnumberbeamer}
+\usepackage{graphics}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{booktabs}
+\usepackage{blindtext}
+
+\pgfplotsset{ every non boxed x axis/.append style={x axis line style=-},every non boxed y axis/.append style={y axis line style=-}}
+\usepackage{breakcites}
+\usepackage{multicol}
+\usepackage{tabularx}
+% Package used for multirow tables
+\usepackage{multirow}
+\newcommand{\tool}[1]{\textsc{#1}\xspace}
+\newcommand{\corpus}[1]{\textit{#1}}
+\usepackage{xspace}
+\usepackage[normalem]{ulem}
+\usepackage{soul}
+\usepackage{makecell}
+%INCOMPATIBLE AVEC FOOTNOTE
+%\usepackage{setspace}% http://ctan.org/pkg/setspace
+\usepackage{xcolor,colortbl}
+\usepackage{soul}
+
+% FONT 
+\setbeamerfont{title}{size={\fontsize{13.5}{1}}}
+
+% THEMES
+\usetheme{CambridgeUS}
+\useoutertheme{infolines}
+
+% COLORS 
+
+\definecolor{CalamineBlue}{HTML}{c6dede}
+\definecolor{PyriteYellow}{HTML}{b69648}
+\definecolor{RawSienna}{HTML}{865340}
+\definecolor{GreenParty}{HTML}{148154}
+\definecolor{CinnamonIce}{HTML}{d9b8a6}
+\definecolor{CinnamonSunset}{HTML}{a74436}
+\definecolor{CinnamonStick}{HTML}{984a34}
+\definecolor{PersianPlum}{HTML}{721817}
+\definecolor{MyOrange}{HTML}{EC4E20}
+\definecolor{VarianteNord}{HTML}{F6CA45}
+\definecolor{VarianteSud}{HTML}{55bcd2}
+\definecolor{BloisGreen1}{HTML}{01696a}
+\definecolor{ao}{rgb}{0.0, 0.5, 0.0}
+\definecolor{P8Red}{HTML}{CA332E}
+\definecolor{P8Red-light}{HTML}{CA5F5C}
+\definecolor{amethyst}{rgb}{0.6, 0.4, 0.8}
+\definecolor{antiquefuchsia}{rgb}{0.57, 0.36, 0.51}
+\definecolor{byzantium}{rgb}{0.44, 0.16, 0.39}
+\definecolor{darkcyan}{rgb}{0.0, 0.55, 0.55}
+\definecolor{indigo(web)}{rgb}{0.29, 0.0, 0.51}
+
+% NEW COMMANDS 
+\newcommand<>\highlightbox[2]{%
+  \alt#3{\makebox[\dimexpr\width-2\fboxsep]{\colorbox{#1}{#2}}}{#2}%
+}
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+\newcommand{\todo}[1]{\colorbox{yellow}{#1}}
+\newcommand{\g}[1]{\og #1 \fg}
+\newcommand{\code}[1]{\textcolor{indigo(web)}{#1}}
+\renewcommand{\emph}[1]{\textcolor{blue}{#1}}
+\renewcommand\thempfootnote{\arabic{mpfootnote}}
+\newcommand{\newhref}[3][blue]{\href{#2}{\textcolor{#1}{#3}}}
+\let\oldcite=\cite
+\renewcommand\cite[1]{\hyperlink{#1}{\textcolor{CinnamonSunset}{\oldcite{#1}}}}
+
+\makeatletter
+\let\HL\hl
+\renewcommand\hl{%
+  \let\set@color\beamerorig@set@color
+  \let\reset@color\beamerorig@reset@color
+  \HL}
+\makeatother
+\newcommand{\hlfancy}[2]{\sethlcolor{#1}\hl{#2}}
+
+\newcommand{\hyp}[1]{\item[Hypothèse] {#1}}
+\setbeamertemplate{section in toc}{\inserttocsectionnumber.~\inserttocsection}
+%\setbeamertemplate{subsection in toc}{\inserttocsubsectionnumber.~\inserttocsubsection\\ }
+\makeatletter
+\def\thefootnote{\arabic{footnote}}
+
+
+% BIBLIO
+\newboolean{FABR}
+\setboolean{FABR}{true}
+
+% SET BEAMER COLOR 
+
+\setbeamercolor{frametitle}{bg=White,fg=Black}
+\setbeamercolor{headline}{fg=PyriteYellow,bg=RawSienna}
+\setbeamercolor{section in head/foot}{fg=White,bg=P8Red-light}
+\setbeamercolor{subsection in head/foot}{fg=White,bg=Black}
+\setbeamercolor{author in head/foot}{bg=Brown}
+\setbeamercolor{date in head/foot}{fg=White}
+\setbeamercolor{title}{fg=Black}
+\setbeamercolor{block title example}{fg=black,bg=Gray!15}
+\setbeamercolor{block body example}{bg=Gray!05}
+\setbeamercolor{block title}{fg=Black,bg=CalamineBlue!85}
+\setbeamercolor{block body}{bg=CalamineBlue!25}
+\setbeamercolor{item projected}{bg=Black}
+\setbeamercolor{local structure}{fg=Black}
+
+% SHADING 
+
+% Disable shading between block title and block content
+% \makeatletter
+% \pgfdeclareverticalshading[lower.bg,upper.bg]{bmb@transition}{cm}{color(0pt)=(lower.bg); color(4pt)=(lower.bg); color(4pt)=(upper.bg)}
+% \makeatother
+% \addtobeamertemplate{block begin}{}{%
+%    {\usebeamercolor[fg]{block example title}{\rule{\textwidth}{0.4pt}}}
+% }
+
+
+
+% CUSTOM TEMPLATE
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{enumerate items}[default]
+\setbeamertemplate{itemize item}{\color{MyOrange}$\blacktriangleright$}
+\setbeamertemplate{footline}[text line]{%
+  \parbox{\linewidth}{\vspace*{-8pt}\insertauthor\hfill\classname\hfill \insertdate \hfill\insertpagenumber}}
+\setbeamertemplate{navigation symbols}{}
+\addtobeamertemplate{footnote}{}{\vskip 3mm}
+\setbeamerfont{footnote}{size=\tiny}
+
+% VARIABLES 
+\newcommand{\classname}{Méthodologie de la programmation}
+\newcommand{\chapternumber}{0}
+
+\hypersetup{
+% colorlinks=true,
+% linkcolor=blue,
+citecolor=blue,
+%filecolor=black,
+urlcolor=blue,
+pdftitle={},
+pdfauthor={Alice Millour},
+}
+\title{Chapitre \chapternumber}
+\author{Alice Millour}
+\date{28 juin 2022}
+\subtitle{Présentation du cours}
+
+
+% TITLE PAGE
+\setbeamertemplate{title page}{
+
+ \begin{tabular}{cl}  
+        \begin{tabular}{c}
+        \tikz [remember picture,overlay]
+        \node [shift={(1.55cm,-1cm)}]  at (current page.north west)
+            {\includegraphics[height=1.2cm]{../../figures/logo-p8.png}};
+        \end{tabular}
+           & \begin{tabular}{l}
+             \hspace{4em} \parbox{1\linewidth}{%  change the parbox width as appropiate
+             \vspace{0.5em} \small Licence informatique \& vidéoludisme \\Semestre 1
+    }
+         \end{tabular}  \\
+\end{tabular}
+\vspace{1em}
+
+
+    
+  \setbeamercolor{coloredboxstuff}{fg=white,bg=black}
+  \begin{beamercolorbox}[wd=1\textwidth,sep=1em]{coloredboxstuff}
+  \classname\par%
+  \end{beamercolorbox}
+\vspace{1.8cm}
+\begin{beamercolorbox}[sep=8pt,center]{title}
+\usebeamerfont{title}\inserttitle\par%
+\end{beamercolorbox}
+      
+\begin{minipage}[b][\paperheight]{\textwidth}
+  \begin{beamercolorbox}[sep=6pt,center]{subtitle}\usebeamerfont{subtitle}\insertsubtitle\end{beamercolorbox}
+  \usebeamertemplate*{title separator}
+  \ifx\beamer@shortauthor\@empty\else\usebeamertemplate*{author}\fi
+
+  \ifx\insertdate\@empty\else\usebeamertemplate*{date}\fi
+  \ifx\insertinstitute\@empty\else\usebeamertemplate*{institute}\fi
+  \vfill
+  \vspace*{1mm}
+\end{minipage}
+
+
+\tikz [remember picture,overlay]
+\node [shift={(-1cm,-2.5cm)}]  at (current page.north east)
+%or: (current page.center)
+      {\includegraphics[height=2.2cm]{../../figures/licenceiv.png}};
+
+
+}
+
+
+% SECTIONS AND TOC
+
+ \AtBeginSection[]
+                   {
+                     \begin{frame}{}
+                       \setbeamertemplate{section in toc}[sections numbered]
+                       \tableofcontents    [
+                         currentsection,
+                         sectionstyle=show/shaded
+                       ]
+                     \end{frame} 
+                   }%
+ \makeatother
+
+\newcommand\blfootnote[1]{%
+\begingroup
+\renewcommand\thefootnote{}\footnote{#1}%
+\addtocounter{footnote}{-1}%
+\endgroup
+}
+
+
+
+\begin{document}
+
+\begingroup
+\setbeamertemplate{headline}{}
+{
+\begin{frame}
+
+\titlepage
+\end{frame}
+}
+\endgroup
+
+
+%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------- 
+\section{Vocabulaire}
+
+
+%------------------------------------------------------------------------------- 
+\begin{frame}{Organisation du cours}
+\centering
+10 semaines, 45h de cours
+\begin{itemize}
+\item 1h30 \textbf{sans machine}
+\item 3h mise en pratique \textbf{sur machine}
+\item travail autonome sur le projet
+\end{itemize}
+\vfill
+\emph{en cas d'absence, prévenir le plus tôt possible.}
+  
+\end{frame}
+
+%-------------------------------------------------------------------------------
+%\begin{frame}{Tour de table}
+%
+% \begin{itemize}
+%     \item ingénieure en informatique, recherche en traitement automatique des langues
+%     \item \url{https://alicemillour.github.io/teaching}
+%     \item bureau : A179, am@up8.edu (24h de délai, relance si pas de réponse)
+% \end{itemize}
+%\centering
+%\vfill
+%\emph{et vous ?} \\ pourquoi cette licence ? expérience de l'informatique ?
+%\vfill
+% 
+%\end{frame}
+
+%------------------------------------------------------------------------------- 
+\begin{frame}{Méthodologie de la programmation}
+\centering
+apprendre à apprendre à programmer
+\vfill
+\begin{itemize}
+\item introduction à certains \textbf{langages} de programmation
+\item introduction à certains \textbf{outils} essentiels 
+\end{itemize}
+\vfill
+notions nouvelles $\rightarrow$ mots nouveaux : \emph{posez des questions}
+\vfill
+% cet espace est FAIT pour que vous appreniez 
+% j'ai été à votre place. quand j'ai commencé je n'y connaissais rien et j'étais entourée de personnes qui étaient déjà des pros de l'informatique
+\end{frame}
+
+%------------------------------------------------------------------------------- 
+%------------------------------------------------------------------------------- 
+\begin{frame}{Informatique}
+%\framesubtitle{Vocabulaire et étymologie}
+\centering
+\vfill
+\visible<2>{
+
+\textit{Science du traitement auto\textbf{matique} de l’\textbf{infor}mation}.\footnote{\url{https://fr.wiktionary.org/wiki/informatique}.}
+\vfill mot utilisé à partir des années \textbf{1960}
+%(apparu entre \textit{surf} et \textit{doudoune})
+
+}
+\vfill
+\end{frame}
+
+%------------------------------------------------------------------------------- 
+\begin{frame}{Ordinateur}
+%\framesubtitle{Vocabulaire et étymologie}
+\centering\visible<2>{
+Du latin \textit{ordinator} : « \textit{celui qui met de l’ordre, ordonnateur} », Jacques Perret 1955
+
+
+\vfill
+\textit{\emph{Appareil} électronique \emph{capable}, en appliquant des instructions prédéfinies (\textbf{programme}), \emph{d’effectuer des traitements automatisés} de données et d’interagir avec l’environnement grâce à des périphériques (écran, clavier…).}\footnote{\url{https://fr.wiktionary.org/wiki/ordinateur}.}
+\vfill
+l'ordinateur est une machine programmable capable de :
+\begin{itemize}
+\item Faire des calculs (opérations arithmétiques et logiques)
+\item Mémoriser les résultat de ces calculs
+\end{itemize}
+}
+\end{frame}
+
+
+\begin{frame}{Ordinateur}
+\begin{itemize}
+\item  Ordinateur de bureau
+\item  Laptop
+\item  Smartphone
+\item  Consoles de jeu
+\item  Électroménager
+\item  Disques durs
+\item  Périphériques
+\item  Voitures
+\item  Montres
+\item  Maisons
+\end{itemize}
+\end{frame}
+
+
+%------------------------------------------------------------------------------- 
+
+\begin{frame}[plain]{}
+\centering
+\vfill
+Programmer : faire faire une tâche à l'ordinateur
+\vfill
+\end{frame}
+
+%------------------------------------------------------------------------------- 
+\begin{frame}[fragile]{{Algorithme} vs. {programme}}
+\framesubtitle{}
+\centering
+
+%lequel précède l'autre ?
+\pause
+\begin{enumerate}
+\item \textbf{définition de la tâche} à résoudre (données $\Rightarrow$ résultat) \\
+ \g{\code{je veux déterminer si un nombre \texttt{n} entre 1 et 100 est divisible par 3}} \\ 
+%\g{\code{soit un nombre tiré aléatoirement entre 1 et 100 renvoyer "vrai" si c'est un multiple de 3, "faux" sinon}} 
+\pause\item \textbf{analyse du problème} \& \textbf{conception d'un \emph{algorithme}}  \\ découpage séquentiel de la tâche et suite d'instructions \textit{en pseudo-langage}
+
+\begin{Verbatim}[commandchars=\\\{\}]
+\code{1. lister les multiples de 3 (L = [3, 6, 9, ..., 99])}
+\code{2. regarder si mon nombre est présent dans la liste L}
+\code{3. afficher le résultat}
+\end{Verbatim}
+... ou encore
+\begin{Verbatim}[commandchars=\\\{\}]
+\code{1. calculer le reste de la division euclidienne de n par 3}
+\code{2. regarder si le reste est égal à 0}
+\code{3. afficher le résultat}
+\end{Verbatim}
+
+\pause\item \textbf{écriture du \emph{programme}} traduction de l'algorithme dans un certain \textit{langage de programmation}
+\end{enumerate}
+\pause
+\vfill
+%... \textbf{exécution} du programme par la machine
+
+\end{frame}
+
+%------------------------------------------------------------------------------- 
+
+\begin{frame}{{Algorithme} vs. {programme}}
+\begin{enumerate}
+\item \textbf{définition du problème} à résoudre (données $\Rightarrow$ résultat) \\
+\item \textbf{analyse du problème} \& \textbf{conception d'un \emph{algorithme}}  \\ découpage séquentiel de la tâche et suite d'instructions \textit{en pseudo-langage}
+\item \textbf{écriture du \emph{programme}} traduction de l'algorithme dans un certain \textit{langage de programmation}
+\end{enumerate}
+
+
+\vfill
+\begin{itemize}
+\item les étapes 1 et 2 se font \textbf{sans} la machine
+\item un problème peut être résolu par différents algorithmes plus ou moins rapides ou efficaces (autre ex. "aller d'un point A à un point B")
+\item un algorithme peut être traduit dans différents langages de programmation
+\end{itemize}
+
+\vfill
+\end{frame}
+
+
+
+
+
+
+%------------------------------------------------------------------------------- 
+\section{Langages, Paradigmes et Outils}
+\begin{frame}{Langages}
+\framesubtitle{langage de programmation vs. langage naturel} 
+
+\centering
+\vfill
+
+Points communs 
+\vfill
+\begin{itemize}
+\item suivent un \textbf{lexique}, une \textbf{syntaxe} et une \textbf{sémantique} particulière
+\item on n'apprend pas par \g{essai erreur} : il faut comprendre la logique et \emph{pratiquer} pour être à l'aise
+\end{itemize}
+\vfill
+Différences 
+\vfill
+
+\raggedright
+\begin{itemize}
+\item la machine n'a aucune capacité d'invention : une erreur rend le programme \textbf{incompréhensible} (analyse sémantique vérifie la \textit{validité} du code)
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Langages de programmation}
+\framesubtitle{langage interprété vs. langage compilé}
+\centering
+\raggedright
+\begin{itemize}
+\item langage \textit{interprété}
+\begin{enumerate}
+\item \textcolor{indigo(web)}{\textbf{code source}} + \textcolor{VarianteSud}{\textbf{données d'entrée}} $\rightarrow$ \textbf{interpréteur} $\rightarrow$ \textcolor{ForestGreen}{\textbf{données de sortie}} 
+\end{enumerate}
+
+\begin{itemize}
+\item traduction en code machine \g{à la volée} ($++$ temps d'exécution)
+\item Ex : Python, Javascript, PHP, Ruby, etc. 
+\end{itemize}
+\item langage \textit{compilé}
+
+\begin{enumerate}
+\item \textcolor{indigo(web)}{\textbf{code source}} $\rightarrow$ \textbf{compilateur} $\rightarrow$ \textcolor{PyriteYellow}{\textbf{code binaire}} (fichier \textit{exécutable}) 
+\item \textcolor{PyriteYellow}{\textbf{code binaire}} + \textcolor{VarianteSud}{\textbf{données d'entrée}}  $\rightarrow$ \textbf{SE} $\rightarrow$  \textcolor{ForestGreen}{\textbf{données de sortie}} 
+\end{enumerate}
+\begin{itemize}
+\item traduction du code \textit{une fois pour toutes} ($--$ temps d'exécution)
+\item indiqué pour les problématiques de temps réel (JV, aérospatiale, SE)
+\item Ex : C, C++, Ada, etc.
+\end{itemize}
+\end{itemize}
+\vfill
+\centering
+la différence ne tient pas tant aux langages eux-mêmes mais à \textit{la manière} dont on les utilise
+\end{frame}
+
+
+%------------------------------------------------------------------------------- 
+
+\begin{frame}[plain]
+\vfill
+\centering
+\large
+code source $=$ le(les) source(s) $=$ fichier(s) texte(s) écrit(s) dans un ou plusieurs langages de programmation
+\vfill
+\normalsize ex : Ctrl-U sur une page web
+\end{frame}
+
+
+%------------------------------------------------------------------------------- 
+
+\begin{frame}[plain]
+\vfill
+\centering
+\large
+implémentation des deux algorithmes en Python et en C\\(démo)
+\vfill
+
+\pause 
+\normalsize
+quel est l'interpréteur Python ? Quel est le compilateur C utilisé ?
+\end{frame}
+
+
+
+\begin{frame}{Paradigme de programmation}
+\centering
+\vfill
+modèle théorique qui oriente la façon de concevoir un programme (types d'objets manipulés, structures de contrôle, etc.)
+\vfill
+\normalsize
+\raggedright
+\begin{itemize}
+\item concurrente,
+\item déclarative,
+\item fonctionnelle,
+\item impérative,
+\item logique,
+\item objet,
+\item par contrainte,
+\item synchrone,
+\item événementielle, etc. 
+\end{itemize}  
+\end{frame}
+
+
+\begin{frame}{Langages utilisés dans ce cours}
+\centering
+Ce cours aborde l’informatique au travers de la programmation dans différents langages :
+\vfill
+\begin{itemize}
+\item Bash (voir le cours de Pratique des Machines)
+\item Python
+\item C
+\item \LaTeX
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Outils}
+\begin{itemize}
+\item documentations,
+\item interpréteurs,
+\item compilateurs,
+\item moteurs de production,
+\item gestionnaires de contrôle de version,
+\item gestionnaire de paquets,
+\item débugueurs,
+\item profileurs.
+\end{itemize}
+    
+\end{frame}
+
+%------------------------------------------------------------------------------- 
+\section{Évaluation et attendus}
+
+%%------------------------------------------------------------------------------- 
+
+
+\begin{frame}[plain]
+\centering
+\large
+\vfill
+Prenez de bonnes habitudes 
+\vfill
+\end{frame}
+%%------------------------------------------------------------------------------- 
+
+\begin{frame}{...à commencer par vos messages / mails}
+\footnotesize
+
+\begin{itemize}
+    \item champ objet précis (nom du cours),
+    \item définissez une \textbf{signature} (nom complet, groupe),
+	\item rien de confidentiel (pensez que c'est une carte postale),
+	\item ne pas utiliser les majuscule mais *ceci* pour mettre en valueur un mot ou une phrase,
+	\item pas de langage SMS,
+	\item soyez bref(ve) et courtois(e),
+	\item évitez l'humour et l'ironie (même avec un smiley),
+	\item soyez modéré(e)s dans vos propos : vos messages restent,
+	\item limitez, si possible, à un sujet le contenu de vos messages,
+    \item ne transmettez pas un courrier reçu à d'autres personnes sans l'autorisation de l'émetteur,
+	\item limitez la taille et le nombre de vos {pièces jointes} (privilégier un lien).% En plus de surcharger les boîtes aux lettres de vos destinataires vous prenez le risque que votre message soit supprimé (sans notification) par un des serveurs de messagerie responsable de son acheminement si sa taille excède les limites autorisées. Utilisez la compression et archivage (section 7.3). De manière générale, évitez les messages de plus de 5 Mo. De plus sachez que les fichiers binaires subissent une expansion d'environ 33 % en raison d'un procédé de transcodage binaire → ASCII.
+    %Utilisez des formats portables, libres d'utilisation, et non spécifiques à une plateforme. À la place de .doc créés avec Microsoft Office, on préférera ainsi des documents au format PDF, qui préserve la mise en forme d'un document indifféremment du système d'exploitation ou de l'application utilisée pour le lire, ou encore le format ODF (.odt pour les textes) si le document doit pouvoir être modifié par le destinataire.
+\end{itemize}
+
+
+
+\end{frame}
+%%------------------------------------------------------------------------------- 
+
+\begin{frame}{Attendus}
+
+\begin{itemize}
+\item Correctement écrire du code :
+
+\begin{itemize}
+\item indentation propre,
+\item nommage cohérent,
+\item organisation modulaire des fichiers.
+\end{itemize}
+
+\item Savoir gérer un projet seul ou à plusieurs :
+
+\begin{itemize}
+\item utiliser git pour gérer les versions du code source et la collaboration,
+\item utiliser Make pour gérer la compilation modulaire.
+\end{itemize}
+
+\item Savoir utiliser les bons outils :
+
+\begin{itemize}
+\item connaître les forces et faiblesses de différents langages et paradigmes de programmation,
+\item savoir chercher efficacement dans une documentation,
+\item utiliser un débugueur voire un profileur.
+\end{itemize}
+
+\item Savoir communiquer sur vos projets :
+
+\begin{itemize}
+\item utiliser \LaTeX pour écrire des rapports.  
+\end{itemize}
+
+\end{itemize}
+
+\end{frame}
+%
+\begin{frame}{Évaluation}
+\begin{itemize}
+\item Votre évaluation pour ce cours prendra en compte :
+\begin{itemize}
+\item le projet ($0,75~\%$ de votre note)
+\item les TPs (potentiellement tous les TPs seront notés !).
+\end{itemize}
+
+\item La propreté du code (\textbf{nommage}, \textbf{indentation}, \textbf{organisation}) est importante est sera prise en compte autant pour les TP que pour le projet.
+
+\end{itemize}
+\end{frame}
+%%------------------------------------------------------------------------------- 
+\section{Take away}
+\begin{frame}{Take away}
+\begin{itemize}
+\item algorithme $\neq$ programme,
+\item comprendre le problème à résoudre $\neq$ concevoir un algorithme $\neq$ traduire vers un langage de programmation \\
+progresser commence par comprendre là où ça coince,
+\item apprendre à programmer $\neq$ apprendre un langage de programmation.
+\end{itemize}
+\centering
+\vfill
++ les bonnes pratiques à maîtriser font partie des critères d'évaluation
+ 
+\end{frame}
+
+%%------------------------------------------------------------------------------- 
+
+\begin{frame}{Sources}
+\begin{itemize}
+\item \href{https://chamilo.grenoble-inp.fr/courses/ENSIMAG3MMUNIX/document/poly-intro-unix/html/index.html}{Poly intro Unix ENSIMAG (lien)}
+\item \href{https://pablo.rauzy.name/teaching/mp/}{Cours de Pablo Rauzy (lien)}
+\item \href{https://jppalus.name/teachings.html}{Cours de Jean-Pascal Palus (lien)}
+\end{itemize}
+\end{frame}
+
+\end{document}
+
