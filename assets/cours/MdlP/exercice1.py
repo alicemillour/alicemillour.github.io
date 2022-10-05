@@ -81,7 +81,7 @@ if __name__ == "__main__":
 
     # erreur0()
     
-    # erreur1()
+    erreur1()
     
     # erreur2()
     
