@@ -22,9 +22,11 @@ def erreur1():
 
 def erreur2():
     """ 
-    La fonction erreur2 
+    La fonction erreur2 affiche 5 fois :
+    "la condition est vraie"
     """
-    while True: 	
+    i = 5
+    while i > 0 : 	
     	print("la condition est toujours vraie");
     	
 def erreur3(n):
@@ -76,27 +78,21 @@ def erreur7():
     print(languages[3])
     
 if __name__ == "__main__":
-    # help(erreurO)
+
     # erreur0()
     
-    help(erreur1)
     # erreur1()
     
-    help(erreur2)
     # erreur2()
     
-    help(erreur3)
     # erreur3()
     
-    help(erreur4)
     # faites afficher "J'étudie à l'université Paris 8" à la fonction erreur4 :
     # erreur4()
     
-    help(erreur5)
     # erreur5()
     
-    help(erreur6)
-    erreur6()
+    # erreur6()
     
-    # help(erreur7)
-    erreur7()
+    # erreur7()
+    pass
