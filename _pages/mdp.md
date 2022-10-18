@@ -9,6 +9,11 @@ author_profile: true
 <h2 id="2021">Méthodologie de la programmation</h2>
 
 <h3 id="2021">Programmation objet avec python</h3>
+- <a href="/assets/cours/MdlP/MdlP_2223_CM5.pdf">CM5</a> 
+- <a href="/assets/cours/MdlP/MdlP_2223_TP5.pdf">TP5</a>
+- <a href="/assets/cours/MdlP/MdlP_2223_TP5.zip">MdP_2223_TP5.zip</a> 
+
+<h3 id="2021">Programmation objet avec python</h3>
 - <a href="/assets/cours/MdlP/MdlP_2223_CM4.pdf">CM4</a> 
 - <a href="/assets/cours/MdlP/MdlP_2223_TP4.pdf">TP4</a>
 
