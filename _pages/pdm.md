@@ -13,10 +13,16 @@ author_profile: true
 - <a href="/assets/cours/PdM/PdM_2223_TP5.pdf">TP5</a>
 
 - <a href="/assets/cours/PdM/PdM_2223_TP4.pdf">TP4</a> 
+- <a href="/assets/cours/PdM/PdM_2223_TP4_exercice1.sh">TP4_exercice1.sh</a> 
+
 
 - <a href="/assets/cours/PdM/PdM_2223_TP3.pdf">TP3</a> 
+- <a href="/assets/cours/PdM/PdM_2223_TP3_corrige.pdf">TP3_corrige</a> 
+
 
 - <a href="/assets/cours/PdM/PdM_2223_TP2.pdf">TP2</a> 
+- <a href="/assets/cours/PdM/PdM_2223_TP2_corrige.pdf">TP2_corrige</a> 
+
 
 - <a href="/assets/cours/PdM/PdM_2223_TP1.pdf">TP1</a> 
 - <a href="/assets/cours/PdM/PdM_2223_TP1_corrige.pdf">TP1_corrige</a> 
