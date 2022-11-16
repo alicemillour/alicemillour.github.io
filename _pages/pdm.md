@@ -11,6 +11,7 @@ author_profile: true
 
 
 - <a href="/assets/cours/PdM/PdM_2223_TP8.pdf">TP8</a>
+- <a href="/assets/cours/PdM/liste_francais.txt">liste_francais.txt</a>
 
 - <a href="/assets/cours/PdM/PdM_2223_TP5.pdf">TP5</a>
 
