@@ -8,8 +8,11 @@ author_profile: true
 ------
 <h2 id="2021">Méthodologie de la programmation</h2>
 
-<h3 id="2021">Programmation objet avec python</h3>
+<h3 id="2021">Programmation en C</h3>
+- <a href="/assets/cours/MdlP/MdlP_2223_TP8.pdf">TP8</a> 
+- <a href="/assets/cours/MdlP/MdlP_2223_CM8.pdf">CM8</a> 
 - <a href="/assets/cours/MdlP/MdlP_2223_CM7.pdf">CM7</a> 
+<h3 id="2021">Programmation objet avec python</h3>
 - <a href="/assets/cours/MdlP/MdlP_2223_TP7.pdf">TP7</a>
 
 <h3 id="2021">Programmation objet avec python</h3>
