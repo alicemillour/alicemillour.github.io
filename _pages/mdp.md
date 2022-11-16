@@ -14,6 +14,7 @@ author_profile: true
 - <a href="/assets/cours/MdlP/MdlP_2223_CM7.pdf">CM7</a> 
 <h3 id="2021">Programmation objet avec python</h3>
 - <a href="/assets/cours/MdlP/MdlP_2223_TP7.pdf">TP7</a>
+- <a href="/assets/cours/MdlP/MdlP_2223_TP7_Correction.zip">TP7 Correction</a>
 
 <h3 id="2021">Programmation objet avec python</h3>
 - <a href="/assets/cours/MdlP/MdlP_2223_CM5.pdf">CM5</a> 
