@@ -10,7 +10,7 @@ author_profile: true
 
 <h3 id="2021">Programmation en C</h3>
 - <a href="/assets/cours/MdlP/MdlP_2223_TP9.zip">TP9.zip</a> 
-- <a href="/assets/cours/MdlP/MdlP_2223_CM9.zip">CM9</a> 
+- <a href="/assets/cours/MdlP/MdlP_2223_CM9.pdf">CM9</a> 
 - <a href="/assets/cours/MdlP/MdlP_2223_TP8.pdf">TP8</a> 
 - <a href="/assets/cours/MdlP/MdlP_2223_CM8.pdf">CM8</a> 
 - <a href="/assets/cours/MdlP/MdlP_2223_CM7.pdf">CM7</a> 
