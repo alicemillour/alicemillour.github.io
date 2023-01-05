@@ -34,6 +34,11 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 <div class="content">
 <h3><a name="activities"></a>Activities</h3>
 </div>
+* Reviewer for Revue TAL (numéro thématique "la robustesse des systèmes de traitement automatique des langues")
+* Reviewer for ACL 2023
+* Reviewer for Robustal 2022 
+* Reviewer for EACL 2022
+* Reviewer for COLING 2022
 * Subreviewer for TALN 2022
 * Reviewer for Games 2022 (The 9th Games and Natural Language Processing)
 * I have been invited to present my works during French webinar "L’évaluation des sciences et recherches participatives", organized by Science Ensemble, on July 5th 2021 (<a target="_blank" href="https://www.science-ensemble.org/upload/attachment/616991cacdceb523833628.pdf">Actes</a>)

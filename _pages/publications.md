@@ -11,6 +11,7 @@ author_profile: true
 
 <!-- 2022 -->
 <h4 id="2021">2022</h4>
+* Laurent Kevers, Alice Millour. Réalisations, obstacles et perspectives pour l’outillage du corse. Journées Jointes des Groupements de Recherche Linguistique Informatique, Formelle et de Terrain (LIFT) et Traitement Automatique des Langues (TAL), novembre 2022, Marseille, France. pp.154-161.  
 * Alice Millour, Yoann Dupont, Alexane Jouglar, Karën Fort. FENEC : un corpus à échantillons équilibrés pour l'évaluation des entités nommées en français. Actes de la 29e conférence sur le Traitement Automatique des Langues Naturelles (TALN), juin 2022, Avignon, France 
 <!-- 2021 -->
 <h4 id="2021">2021</h4>
