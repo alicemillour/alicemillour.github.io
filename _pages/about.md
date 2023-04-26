@@ -34,6 +34,7 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 <div class="content">
 <h3><a name="activities"></a>Activities</h3>
 </div>
+* Reviewer for the Italian philosophy journal Etica&Politica/Ethics&Politics
 * Reviewer for Revue TAL (numéro thématique "la robustesse des systèmes de traitement automatique des langues")
 * Reviewer for ACL 2023
 * Reviewer for Robustal 2022 
