@@ -33,11 +33,14 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 
 <div class="content">
 <h3><a name="activities"></a>Activities</h3>
+
 </div>
+* I have been invited by the PluriTAL Master to present my work to the NLP students in october 2023
+* I'll be co-advising Marina Seghier during her PhD starting november 2023 with Nicolas Jouandeau !
+* Reviewer for EMNLP 2023 
 * I have been invited to be part of the opening panel discussion at Contribuling 2023 
 * Reviewer for the Italian philosophy journal Etica&Politica/Ethics&Politics
 * Reviewer for Revue TAL (numéro thématique "la robustesse des systèmes de traitement automatique des langues")
-* Reviewer for ACL 2023
 * Reviewer for Robustal 2022 
 * Reviewer for EACL 2022
 * Reviewer for COLING 2022
