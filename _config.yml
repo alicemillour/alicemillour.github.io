@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alice Millour"
   avatar           : "profile2.jpg"
-  bio              : "Doctor in Computer Science \n Associate Professor at Université Paris 8"
+  bio              : "Doctor in Computer Science \n Associate Professor"
   location         : "Paris"
-  employer         : "Sorbonne Université"
+  employer         : "Université Paris 8"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=lkCh7A8AAAAJ&hl=fr"
   email            : "alice.millour at sorbonne-universite.fr"

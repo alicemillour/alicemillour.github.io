@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "2022-2023 Licence IV Université Paris Saint-Denis"
+title: "2023-2024 Licence IV Université Paris Saint-Denis"
 permalink: /teaching/
 author_profile: true
 ---

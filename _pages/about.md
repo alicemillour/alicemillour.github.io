@@ -35,9 +35,14 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 <h3><a name="activities"></a>Activities</h3>
 
 </div>
+* Reviewer for Games4NLP 2024
+* Reviewer for LREC 2024
+* I have joined the <a target="_blank" href="https://gitlab.huma-num.fr/mguernut/corli-gum_v1/-/wikis/Le-projet-CORLI-GUM"> CORLI-GUM   </a> project 
+* I have participated to TAL Envol 2023 
+* I have joined the <a target="_blank" href="https://divital.gitpages.huma-num.fr/fr/DIVITAL"> DIVITAL ANR project </a> 
 * I have been invited by the PluriTAL Master to present my work to the NLP students in october 2023
 * I'll be co-advising Marina Seghier during her PhD starting november 2023 with Nicolas Jouandeau !
-* Reviewer for EMNLP 2023 
+* Reviewer for EMNLP 2023 <!-- 4 papers --> 
 * I have been invited to be part of the opening panel discussion at Contribuling 2023 
 * Reviewer for the Italian philosophy journal Etica&Politica/Ethics&Politics
 * Reviewer for Revue TAL (numéro thématique "la robustesse des systèmes de traitement automatique des langues")
