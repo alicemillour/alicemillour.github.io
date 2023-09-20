@@ -4,7 +4,7 @@ title: "Méthodologie de la programmation"
 permalink: /mdp/
 author_profile: true
 ---
-
+<!--
 ------
 <h2 id="2021">Méthodologie de la programmation</h2>
 
@@ -43,4 +43,5 @@ author_profile: true
 - <a href="/assets/cours/MdlP/MdlP_2223_TP1.pdf">TP1</a> 
 - <a href="/assets/cours/MdlP/MdlP_2223_TP1_corrige.pdf">TP1 - corrigé</a> 
 - <a href="/assets/cours/MdlP/MdlP_2223_TP1.zip">MdP_2223_TP1.zip</a> 
+-->
 
