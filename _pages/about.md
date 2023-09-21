@@ -35,6 +35,7 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 <h3><a name="activities"></a>Activities</h3>
 
 </div>
+* Reviewer for LRE 2024 (Language Resources and Evaluation journal)
 * Reviewer for Games4NLP 2024
 * Reviewer for LREC 2024
 * I have joined the <a target="_blank" href="https://gitlab.huma-num.fr/mguernut/corli-gum_v1/-/wikis/Le-projet-CORLI-GUM"> CORLI-GUM   </a> project 
