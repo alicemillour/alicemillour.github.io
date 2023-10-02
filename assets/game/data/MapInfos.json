@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Starting point","order":6,"parentId":0,"scrollX":819,"scrollY":418},
-{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":811,"scrollY":1298},
+{"id":1,"expanded":true,"name":"Starting point","order":6,"parentId":0,"scrollX":819,"scrollY":421},
+{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":811,"scrollY":1290},
 null,
 {"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":751.8,"scrollY":522},
 {"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":1074.6,"scrollY":512.4},
