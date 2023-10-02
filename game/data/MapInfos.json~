@@ -1,0 +1,13 @@
+[
+null,
+<<<<<<< HEAD
+null,
+{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":870,"scrollY":1471.5},
+=======
+{"id":1,"expanded":false,"name":"Annalisa's Map","order":4,"parentId":0,"scrollX":459,"scrollY":323.5},
+{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":451,"scrollY":1496.5},
+>>>>>>> 1ca22d3891e20a85a3a8e087185f648859e3dc5c
+null,
+{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":508.5,"scrollY":652.5},
+{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":508.5,"scrollY":640.5}
+]

@@ -1,0 +1,3 @@
+The game is deployed via Github on bisame.paris-sorbonne.fr/lost-words
+Code is in /var/www/lost-words/KatanaAndGG/Game_of_the_lost_words/
+
