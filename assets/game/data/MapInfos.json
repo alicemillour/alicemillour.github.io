@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Starting point","order":6,"parentId":0,"scrollX":819,"scrollY":421},
-{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":811,"scrollY":1290},
+{"id":1,"expanded":true,"name":"Starting point","order":6,"parentId":0,"scrollX":751.8,"scrollY":522},
+{"id":2,"expanded":false,"name":"Earth Village","order":3,"parentId":0,"scrollX":674.7272727272727,"scrollY":1646.1818181818182},
 null,
-{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":751.8,"scrollY":522},
-{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":1074.6,"scrollY":512.4},
+{"id":4,"expanded":true,"name":"School Classroom","order":1,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
+{"id":5,"expanded":true,"name":"School Hall","order":2,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
 {"id":6,"expanded":false,"name":"Floating Temple","order":5,"parentId":0,"scrollX":747.8181818181819,"scrollY":737.4545454545455},
-{"id":7,"expanded":false,"name":"Village House 1F","order":7,"parentId":0,"scrollX":751.8,"scrollY":522},
-{"id":8,"expanded":true,"name":"Dragon's Lair","order":8,"parentId":0,"scrollX":1579.8,"scrollY":1380},
-{"id":9,"expanded":true,"name":"House 1","order":9,"parentId":0,"scrollX":751.8,"scrollY":522},
+{"id":7,"expanded":false,"name":"Village House 1F","order":7,"parentId":0,"scrollX":683.4545454545455,"scrollY":474.54545454545456},
+{"id":8,"expanded":true,"name":"Dragon's Lair","order":8,"parentId":0,"scrollX":1580.1818181818182,"scrollY":1380},
+{"id":9,"expanded":true,"name":"House 1","order":9,"parentId":0,"scrollX":1074,"scrollY":745.7142857142857},
 {"id":10,"expanded":true,"name":"Maze","order":4,"parentId":2,"scrollX":1060.2857142857142,"scrollY":1174.2857142857142}
 ]
