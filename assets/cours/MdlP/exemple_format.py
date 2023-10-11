@@ -44,6 +44,6 @@ def affiche_jours_compact():
     print('{} précède {}, {}, {}, {}, {} et {}.'.format(*liste_jours))
     
 if __name__ == "__main__":
-    #message_cours()
-    #affiche_jours()
+    message_cours()
+    affiche_jours()
     affiche_jours_compact()
