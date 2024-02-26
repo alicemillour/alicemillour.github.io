@@ -35,6 +35,10 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 <h3><a name="activities"></a>Activities</h3>
 
 </div>
+* The GENEPI project (GPT et ENseignement débranché En Pédagogie Informatique), that we proposed with Revekka Kyriakoglou to study the impact of GPT and unplugged activities in teaching CS, has received a funding of 6600€
+* I have two papers accepted at LREC-Coling 2024 ! One is written with Karën Fort and Yoann Dupont, the second with Laurent Kevers, Lorenza Brasile and Alberto Ghia.
+* Reviewer for the Journée d'Étude Éthique et TAL, Nancy 2024 
+* Reviewer for ACL Rolling Review - February Cycle
 * Reviewer for LRE 2024 (Language Resources and Evaluation journal)
 * Reviewer for Games4NLP 2024
 * Reviewer for LREC 2024
