@@ -8,9 +8,16 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+<!-- 2024 -->
+<h4 id="2024">2024</h4>
+Two publications at LREC 2024 to come!
+<!-- 2023 -->
 
+<h4 id="2023">2023</h4>
+* Marina Seghier, Alice Millour, Jean-Yves Antoine. Descripteurs Linguistiques et Caractérisation Objective des Catégories Textuelles. 5èmes journées du Groupement de Recherche CNRS « Linguistique Informatique, Formelle et de Terrain », GdR LIFT, CNRS, Nov 2023, Nancy, France. pp.106-112. 
 <!-- 2022 -->
-<h4 id="2021">2022</h4>
+
+<h4 id="2022">2022</h4>
 * Laurent Kevers, Alice Millour. Réalisations, obstacles et perspectives pour l’outillage du corse. Journées Jointes des Groupements de Recherche Linguistique Informatique, Formelle et de Terrain (LIFT) et Traitement Automatique des Langues (TAL), novembre 2022, Marseille, France. pp.154-161.  
 * Alice Millour, Yoann Dupont, Alexane Jouglar, Karën Fort. FENEC : un corpus à échantillons équilibrés pour l'évaluation des entités nommées en français. Actes de la 29e conférence sur le Traitement Automatique des Langues Naturelles (TALN), juin 2022, Avignon, France 
 <!-- 2021 -->

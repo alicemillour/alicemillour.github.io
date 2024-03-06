@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-My curriculum (in french) is available here:  [ ![Pdf](../icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/CV2022_millour.pdf)
+My curriculum (in french) is available here:  [ ![Pdf](../icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdfs/MILLOUR_cv.pdf)

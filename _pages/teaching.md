@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Mes supports de cours dispensés à l'Université Paris 8 Vincennes Saint-Denis ont temporairement été transférés sur le moodle de l'université. 
+
 ------
 
 <a href="/mdp/"> Méthodologie de la programmation </a>
