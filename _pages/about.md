@@ -23,10 +23,16 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
     <h3><a name="interests"></a>Interests</h3>
         <div class="row-fluid">
             <div class="span12">
-            My research focuses on questionning whether crowdsourcing (and games with a purpose) can be used to gather linguistic resources for the so-called "less-resourced" languages.<br/><br/>
+            I am currently working on 2 main subjects: (i) evaluation in NLP, and especially how to explain and predict performance drift across linguistic "genres", "domains", etc. and (ii) NLP of Corsican dialects. 
+			I am also interested in the use of crowdsourcing (and games with a purpose) to gather linguistic resources for the so-called "less-resourced" languages.
+			During my PhD, I have developed platforms to enable collaborative part-of-speech annotation, corpus collection, and dialectal and spelling variants collection for Alsatian (French regional language) (see the <a target="_blank" href="https://www.ortolang.fr/market/corpora/bisame_gsw/">collected data</a>.
+			
+<!--
+			My research focuses on questionning whether crowdsourcing (and games with a purpose) can be used to gather linguistic resources for the so-called "less-resourced" languages.<br/><br/>
 
             I have developed a platform to enable collaborative part-of-speech annotation of an Alsatian (French regional language) corpus: <a href="http://bisame.paris-sorbonne.fr">BISAME</a>, and a platform to collect recipes, dialectal and spelling variants and POS tags for the Alsatian language <a href="http://bisame.paris-sorbonne.fr/recettes">Recettes de Grammaire (gsw)</a> and the Guadeloupean Creole <a href="http://krik.paris-sorbonne.fr/recettes">Recettes de Grammaire (gcf)</a>. Feel free to share theses links, create an account and contact me if you need further information!
-            </div>
+-->
+			</div>
         </div>
 </div>
   
@@ -35,6 +41,8 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 <h3><a name="activities"></a>Activities</h3>
 
 </div>
+* Laure Turcati presented  <i>Citizen science backstage: a rocky road towards unexpected outcomes</i> a collaborative work led with Laure Turcati, Alice Millour, Renaud Debailly, Anne Dozières, Asma Steinhausser, Karën Fort and Corentin Biets, at the 5th European Citizen Science Association (ECSA) conference (<a target="_blank" href="https://2024.ecsa.ngo/images/Images/2024/ABSTRACT%2009.pdf">abstract</a>)
+* Ethics Reviewer for ACL Rolling Review - February Cycle
 * The GENEPI project (GPT et ENseignement débranché En Pédagogie Informatique), that we proposed with Revekka Kyriakoglou to study the impact of GPT and unplugged activities in teaching CS, has received a funding of 6600€
 * I have two papers accepted at LREC-Coling 2024 ! One is written with Karën Fort and Yoann Dupont, the second with Laurent Kevers, Lorenza Brasile and Alberto Ghia.
 * Reviewer for the Journée d'Étude Éthique et TAL, Nancy 2024 
