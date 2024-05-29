@@ -41,6 +41,7 @@ Curriculum vitae: [(en) ![CV (en)](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets
 <h3><a name="activities"></a>Activities</h3>
 
 </div>
+* I will be chairing the morning session at the <a target="_blank" href="https://arbres.iker.cnrs.fr/index.php?title=2024_Workshop_on_Breton_Language_Technologies">2024 Workshop on Breton Language Technologies</a>, organized by Mélanie Jouitteau and Milan Rezac, on June 08 at the University of Kemper/Quimper (UBO).
 * Laure Turcati presented  <i>Citizen science backstage: a rocky road towards unexpected outcomes</i> a collaborative work led with Laure Turcati, Alice Millour, Renaud Debailly, Anne Dozières, Asma Steinhausser, Karën Fort and Corentin Biets, at the 5th European Citizen Science Association (ECSA) conference (<a target="_blank" href="https://2024.ecsa.ngo/images/Images/2024/ABSTRACT%2009.pdf">abstract</a>)
 * Ethics Reviewer for ACL Rolling Review - February Cycle
 * The GENEPI project (GPT et ENseignement débranché En Pédagogie Informatique), that we proposed with Revekka Kyriakoglou to study the impact of GPT and unplugged activities in teaching CS, has received a funding of 6600€

@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 <!-- 2024 -->
 <h4 id="2024">2024</h4>
-Two publications at LREC 2024 to come!
+* Alice Millour, Lorenza Brasile, Alberto Ghia, and Laurent Kevers. 2024. Agettivu, Aggitivu o Aghjettivu? POS Tagging Corsican Dialects. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 600–608, Torino, Italia. ELRA and ICCL.  <a target="_blank" href="https://aclanthology.org/2024.lrec-main.52.pdf"> → </a> <br> <br>
+* Alice Millour, Yoann Dupont, Karen Fort, and Liam Duignan. 2024. Unveiling Strengths and Weaknesses of NLP Systems Based on a Rich Evaluation Corpus: The Case of NER in French. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 17217–17224, Torino, Italia. ELRA and ICCL.  <a target="_blank" href="https://hal.science/hal-04534593/document"> → </a> <br> <br>
+
 <!-- 2023 -->
 
 <h4 id="2023">2023</h4>
