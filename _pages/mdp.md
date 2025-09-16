@@ -9,8 +9,13 @@ author_profile: true
 
 
 - <a href="https://pads.up8.edu/s/bMRoOO2dZ">Prise en main de l'espace de travail - Paris 8</a> 
+- <a href="https://pads.up8.edu/paq-szN_QZqERE7BpU6Wmw"> Présentation du cours </a>
+- <a href="https://pads.up8.edu/vVg_LRVSRbCEwaLhne1i8A?view"> Cours 1 - Flot de Contrôle </a>
+- <a href="https://codeinplace.stanford.edu/"> Stanford Karel </a>
+- <a href="https://codeinplace.stanford.edu/public/ide/a/housekarel"> Documentation Karel (à gauche : Docs) </a>
 
 <!--
+
 ------
 
 <h3 id="2021">Programmation en C</h3>
