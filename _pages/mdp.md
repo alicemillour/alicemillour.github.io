@@ -16,6 +16,7 @@ author_profile: true
 
 <h3 id="mdlp-2"> Seance 2 - 17/09/2025 </h3>
 - <a href="https://pads.up8.edu/IUIScxQJQiGyHFcUB1eKfg?both"> Cours 2 - Programmation avec Karel </a>
+- <a href="/assets/cours/MdlP/pyramide-struct.py"> Structure solution pyramide </a>
 
 <!--
 
