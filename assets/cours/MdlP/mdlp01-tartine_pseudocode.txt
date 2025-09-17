@@ -1,0 +1,61 @@
+def sortir(objet, meuble):
+    # pré-requis : au moins une main est libre
+    ouvrir(meuble) 
+    prendre(objet)
+    fermer(meuble)
+    poser(objet)
+    
+def ranger(objet, meuble):
+    # pré-requis : l'objet est sorti et les deux mains sont libres
+    prendre(objet)
+    ouvrir(meuble) 
+    poser(objet) 
+    fermer(meuble) 
+
+def beurrer(objet):
+    # pré-requis : - le couteau l'objet et le beurre sont sortis
+    #              - le beurre est ouvert
+    prendre(couteau)
+    couper_morceau(beurre)
+    prendre(objet)
+    étaler(beurre, objet)
+    poser(objet)
+    poser(couteau)
+
+def preparer(objet, nombre):
+	faire nombre fois : -- avec nombre = 2
+		- prendre objet -- avec objet = tartine
+		- poser objet 
+		beurrer(objet)
+		- prendre cuiller 
+		- prendre pot de confiture 
+		- tant qu'il reste de la place sur la tartine :
+			- mettre cuiller dans pot de confiture
+			- remplir la cuiller
+			- tartiner contenu cuiller sur objet
+		- poser cuiller 
+		- poser pot de confiture 
+
+if __name__ == '__main__':
+	- ouvrir sachet
+	sortir(couteau, tiroir)
+	sortir(beurre, frigo)
+	- ouvrir beurre
+	sortir(cuiller, tiroir)
+	sortir(confiture, frigo)
+	- ouvrir pot de confiture
+	- poser couvercle 
+	
+	nombre-personnes = input()
+	preparer(tartine, nombre-personnes)
+	
+#	nombre-personnes ?= 1  Si oui:
+#		preparer(tartine, 1)
+#	sinon:
+#		preparer(tartine, 2)	
+
+	- refermer pot de confiture
+	ranger(confiture, frigo)
+	- fermer beurre
+	ranger(beurre, frigo)
+	- fermer sachet

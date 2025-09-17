@@ -4,13 +4,13 @@ title: "Méthodologie de la programmation"
 permalink: /mdp/
 author_profile: true
 ---
-
-<h2 id="2021">Méthodologie de la programmation</h2>
-
-
 - <a href="https://pads.up8.edu/s/bMRoOO2dZ">Prise en main de l'espace de travail - Paris 8</a> 
 - <a href="https://pads.up8.edu/paq-szN_QZqERE7BpU6Wmw"> Présentation du cours </a>
+
+<h3 id="mdlp-1"> Seance 1 - 17/09/2025 </h3>
 - <a href="https://pads.up8.edu/vVg_LRVSRbCEwaLhne1i8A?view"> Cours 1 - Flot de Contrôle </a>
+- Solution possible avec boucles et fonctions : <a href="/assets/cours/MdlP/mdlp01-tartine_pseudocode.txt">mdlp01-tartine_pseudocode.txt</a> 
+<br>
 - <a href="https://codeinplace.stanford.edu/"> Stanford Karel </a>
 - <a href="https://codeinplace.stanford.edu/public/ide/a/housekarel"> Documentation Karel (à gauche : Docs) </a>
 
