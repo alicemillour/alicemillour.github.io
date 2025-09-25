@@ -15,8 +15,13 @@ author_profile: true
 - <a href="https://codeinplace.stanford.edu/public/ide/a/housekarel"> Documentation Karel (à gauche : Docs) </a>
 
 <h3 id="mdlp-2"> Seance 2 - 17/09/2025 </h3>
-- <a href="https://pads.up8.edu/IUIScxQJQiGyHFcUB1eKfg?both"> Cours 2 - Programmation avec Karel </a>
+- <a href="https://pads.up8.edu/IUIScxQJQiGyHFcUB1eKfg"> Cours 2 - Programmation avec Karel </a>
 - <a href="/assets/cours/MdlP/pyramide-struct.py"> Structure solution pyramide </a>
+
+<h3 id="mdlp-2"> Seance 3 - 25/09/2025 </h3>
+- <a href="https://pads.up8.edu/AzipMsauRouCjJWSrXOzRQ?view"> MDLP - Cours 3 - Variables et Fonctions en Python </a>
+- <a href="/assets/cours/MdlP/cours3/erreurs_en_python.py"> erreurs_en_python.py </a>
+- <a href="/assets/cours/MdlP/cours3/revision.py"> revision.py </a>
 
 <!--
 
