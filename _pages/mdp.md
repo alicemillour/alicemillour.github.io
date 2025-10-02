@@ -19,9 +19,12 @@ author_profile: true
 - <a href="/assets/cours/MdlP/pyramide-struct.py"> Structure solution pyramide </a>
 
 <h3 id="mdlp-2"> Seance 3 - 25/09/2025 </h3>
-- <a href="https://pads.up8.edu/AzipMsauRouCjJWSrXOzRQ?view"> MDLP - Cours 3 - Variables et Fonctions en Python </a>
+- <a href="https://pads.up8.edu/AzipMsauRouCjJWSrXOzRQ?view"> Cours 3 - Variables et Fonctions en Python </a>
 - <a href="/assets/cours/MdlP/cours3/erreurs_en_python.py"> erreurs_en_python.py </a>
-- <a href="/assets/cours/MdlP/cours3/revision.py"> revision.py </a>
+
+<h3 id="mdlp-2"> Seance 4 - 02/10/2025 [blocage] </h3>
+- <a href="https://pads.up8.edu/X2h4TjoxS8e8enJG6TTOTA#"> Cours 4 - Erreurs, exceptions, boucles imbriquées, récursivité</a>
+- <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
 
 <!--
 
