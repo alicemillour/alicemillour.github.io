@@ -21,10 +21,18 @@ author_profile: true
 <h3 id="mdlp-2"> Seance 3 - 25/09/2025 </h3>
 - <a href="https://pads.up8.edu/AzipMsauRouCjJWSrXOzRQ?view"> Cours 3 - Variables et Fonctions en Python </a>
 - <a href="/assets/cours/MdlP/cours3/erreurs_en_python.py"> erreurs_en_python.py </a>
+- <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
 
 <h3 id="mdlp-2"> Seance 4 - 02/10/2025 [blocage] </h3>
 - <a href="https://pads.up8.edu/X2h4TjoxS8e8enJG6TTOTA#"> Cours 4 - Erreurs, exceptions, boucles imbriquées, récursivité</a>
 - <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
+<!--- <a href="/assets/cours/MdlP/cours4/cours4-correction.py"> cours4-correction.py </a>-->
+
+<h3 id="mdlp-2"> Seance 5 - 09/10/2025 </h3>
+- <a href="https://pads.up8.edu/"> Cours 5 - </a>
+- <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
+- <a href="/assets/cours/MdlP/cours4/cours4-correction.py"> cours4-correction.py </a>
+
 
 <!--
 
