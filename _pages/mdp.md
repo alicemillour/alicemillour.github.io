@@ -29,7 +29,7 @@ author_profile: true
 <!--- <a href="/assets/cours/MdlP/cours4/cours4-correction.py"> cours4-correction.py </a>-->
 
 <h3 id="mdlp-2"> Seance 5 - 09/10/2025 </h3>
-- <a href="https://pads.up8.edu/"> Cours 5 - </a>
+- <a href="https://pads.up8.edu/n3xn9zxuR96RWbo-our-mA?view"> Cours 5 - Récursivité, portée et passage de variable, compréhension de listes</a>
 - <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
 - <a href="/assets/cours/MdlP/cours4/cours4-correction.py"> cours4-correction.py </a>
 
