@@ -33,6 +33,10 @@ author_profile: true
 - <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
 - <a href="/assets/cours/MdlP/cours4/cours4-correction.py"> cours4-correction.py </a>
 
+<h3 id="mdlp-2"> Seance 6 - 15/10/2025 </h3>
+- <a href="https://pads.up8.edu/mSnKtnojTxyo1tB9qXvMiA?view"> Cours 6 - Formattage de chaînes de caractères, arguments, lecture et écriture</a>
+
+
 
 <!--
 
