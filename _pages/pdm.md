@@ -7,6 +7,7 @@ author_profile: true
 
 ------
 <h2 id="2021">Pratique des machines</h2>
+- contrôle de connaissance au retour de la pause pédagogique 
 - <a href="/assets/cours/PdM/PdM_2526_TP5.pdf">TP5</a> 
 - <a href="/assets/cours/PdM/PdM_2526_TP4.pdf">TP4</a> 
 - <a href="/assets/cours/PdM/PdM_2526_TP3.pdf">TP3</a> 
