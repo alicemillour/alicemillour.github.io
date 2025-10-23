@@ -36,6 +36,11 @@ author_profile: true
 <h3 id="mdlp-2"> Seance 6 - 15/10/2025 </h3>
 - <a href="https://pads.up8.edu/mSnKtnojTxyo1tB9qXvMiA?view"> Cours 6 - Formattage de chaînes de caractères, arguments, lecture et écriture</a>
 
+<h3 id="mdlp-2"> Seance 7 - 23/10/2025 - révisions </h3>
+- <a href="https://pads.up8.edu/tu_5mN6sTMmLT0p9Y9uXMQ?view"> Cours 7 - Exercices de révision</a>
+
+<h3 id="mdlp-2"> Seance 8 - 23/10/2025 - contrôle de connaissances </h3>
+
 
 
 <!--
