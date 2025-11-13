@@ -39,7 +39,10 @@ author_profile: true
 <h3 id="mdlp-2"> Seance 7 - 23/10/2025 - révisions </h3>
 - <a href="https://pads.up8.edu/tu_5mN6sTMmLT0p9Y9uXMQ?view"> Cours 7 - Exercices de révision</a>
 
-<h3 id="mdlp-2"> Seance 8 - 23/10/2025 - contrôle de connaissances </h3>
+<h3 id="mdlp-2"> Seance 8 - 06/11/2025 - contrôle de connaissances </h3>
+
+<h3 id="mdlp-2"> Seance 9 - 13/11/2025 - révisions </h3>
+- <a href="https://pads.up8.edu/318Es8uWTL6x8HB6Nh4J9Q"> Cours 9 - Introduction à C</a>
 
 
 
