@@ -42,12 +42,14 @@ author_profile: true
 <h3 id="mdlp-2"> Seance 5 - 06/11/2025 - contrôle de connaissances </h3>
 
 <h3 id="mdlp-2"> Seance 6 & 7 - 13/11/2025 & 20/11/2025 - introduction à C </h3>
-- <a href="https://pads.up8.edu/318Es8uWTL6x8HB6Nh4J9Q"> Cours 9 - Introduction à C</a>
-- <a href="https://pads.up8.edu/V5UQBx4YTV-ikUjxSo7teQ"> Cours 9 - Exercices d'application en C</a>
+- <a href="https://pads.up8.edu/318Es8uWTL6x8HB6Nh4J9Q"> Cours 8 - Introduction à C</a>
+- <a href="https://pads.up8.edu/V5UQBx4YTV-ikUjxSo7teQ"> Cours 8 - Exercices d'application en C</a>
+- <a href="https://pads.up8.edu/W4qJDLKNTyaL5Gi3BskyRg?view"> Cours 8 - Exercices d'application en C (correction)</a>
 
 
 <h3 id="mdlp-2"> Seance 8 - 27/11/2025  </h3>
-- <a href=""> </a>
+- <a href="https://pads.up8.edu/x2OclJXXQu6dYRNibzxmvg?view"> Cours 9 - Passage de paramètres en C </a>
+- <a href="https://pads.up8.edu/C1jQT9NiSH6k6T2B23jZog?view"> Cours 9 - Exercices d'application en C</a>
 
 <h3 id="mdlp-2"> Seance 9 - 04/12/2025 </h3>
 - <a href=""> </a>
