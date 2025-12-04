@@ -52,7 +52,8 @@ author_profile: true
 - <a href="https://pads.up8.edu/C1jQT9NiSH6k6T2B23jZog?view"> Cours 9 - Exercices d'application en C</a>
 
 <h3 id="mdlp-2"> Seance 9 - 04/12/2025 </h3>
-- <a href=""> </a>
+- <a href="https://pads.up8.edu/lvFTpzJVTGGSZDV839LHqQ?view"> Cours 10 - Allocation de mémoire en C (+ exos) </a>
+- <a href="/assets/cours/MdlP/arrays.zip"> arrays.zip </a>
 
 <h3 id="mdlp-2"> Seance 10 - 11/12/2025 </h3>
 - <a href=""> </a>
