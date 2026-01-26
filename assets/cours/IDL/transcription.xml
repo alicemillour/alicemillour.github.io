@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="transcription.xsl"?>
+<!DOCTYPE Trans SYSTEM "http://cocoon.huma-num.fr/schemas/trans-14.dtd">
+
+
+<Trans xml:lang="fr">
+
+<Speakers>
+<Speaker id="FRA2019_0100" name="FRA2019_0100"/>
+<Speaker id="enquêteur" name="enquêteur"/>
+</Speakers>
+<Episode>
+<Section endTime="933.682" startTime="2.979" type="report">
+<Turn endTime="3.815" speaker="enquêteur" startTime="2.979">
+<Sync time="2.979"/>on va commencer</Turn>
+<Turn endTime="4.744" speaker="FRA2019_0100" startTime="4.312">
+<Sync time="4.312"/>d'accord</Turn>
+<Turn endTime="15.107" speaker="enquêteur" startTime="5.823">
+<Sync time="5.823"/>hum<Sync time="7.290"/>euh<Sync time="8.713"/>bien<Sync time="9.773"/>%<Sync time="10.195"/>euh<Sync time="10.831"/>première question<Sync time="12.385"/>euh<Sync time="13.121"/>êtes-vous né<Sync time="14.137"/>dans quelle région</Turn>
+<Turn endTime="18.456" speaker="FRA2019_0100" startTime="15.959">
+<Sync time="15.959"/>je suis né dans la région Île-de-france</Turn>
+<Turn endTime="21.416" speaker="enquêteur" startTime="19.245">
+<Sync time="19.245"/>vous habite toujours dans cette région</Turn>
+<Turn endTime="22.821" speaker="FRA2019_0100" startTime="21.868">
+<Sync time="21.868"/>toujours oui</Turn>
+<Turn endTime="27.404" speaker="enquêteur" startTime="23.542">
+<Sync time="23.542"/>connaissez-vous ces ré- cette région parlez-moi de cette région</Turn>
+<Turn endTime="60.847" speaker="FRA2019_0100" startTime="29.292">
+<Sync time="29.292"/>et bien qu'est-ce que je peux dire sur la région Île-de-france bah c'est là où se trouve bah la capitale Paris<Sync time="35.976"/>et aussi oui euh je connais assez bien les villes de banlieue vu que j'habite moi-même en banlieue parisienne<Sync time="42.141"/>elles sont toutes différentes les unes des autres euh c'est vrai c'est pas la même chose qui se passe dedans<Sync time="46.840"/>dans le sens où<Sync time="50.314"/>sont toutes assez différentes vraiment par rapport à leur proximité par rapport à Paris<Sync time="54.680"/>et mais bien sûr dedans y a Paris avec chaque arrondissement qui font voyager un petit peu<Sync time="60.090"/>et voilà</Turn>
+<Turn endTime="64.783" speaker="enquêteur" startTime="62.086">
+<Sync time="62.086"/>y a-t-il des fêtes particulières</Turn>
+<Turn endTime="79.210" speaker="FRA2019_0100" startTime="66.375">
+<Sync time="66.375"/>et bien<Sync time="67.553"/>coeur de Paris bah on va fêter euh à peu près toutes les fêtes chrétiennes c'est-à-dire euh Nöel ou autre puis dans certains quartiers<Sync time="75.553"/>notamment le treizième ou neuvième on peut fêter par exemple le nouvel an chinois ou autre</Turn>
+<Turn endTime="85.773" speaker="enquêteur" startTime="80.924">
+<Sync time="80.924"/>euh pensez-vous qu'est-ce qui a changé des dernières années</Turn>
+<Turn endTime="104.916" speaker="FRA2019_0100" startTime="87.818">
+<Sync time="87.818"/>euh alors là j-<Sync time="90.627"/>pourrai pas trop répondre vu que<Sync time="93.424"/>je suis encore<Sync time="94.728"/>assez jeune donc j'ai pas eu encore le temps de<Sync time="97.291"/>bah me balader partout dans cette région et je pourrai<Sync time="100.634"/>je la connais pas assez pour euh<Sync time="102.800"/>voir ce qui pourrait changer ou pas au fil des années</Turn>
+<Turn endTime="111.471" speaker="enquêteur" startTime="107.228">
+<Sync time="107.228"/>quelles sont les spécialités gastronomiques de la région</Turn>
+<Turn endTime="136.477" speaker="FRA2019_0100" startTime="112.186">
+<Sync time="112.186"/>bien là j-<Sync time="114.497"/>euh<Sync time="117.059"/>je sais pas trop à peu près y a un peu de tout comme je je l'ai dit euh plutôt<Sync time="122.626"/>on peut retrouver euh<Sync time="124.149"/>plein de choses différentes et après selon les quartiers qui ont des populations venant de certains pays ou pas on pourra trouver des spécialités différentes<Sync time="131.431"/>ou autre<Sync time="132.375"/>mais après des spécialités propres à la région Île-de-france je pense pas qu'y en ait forcément</Turn>
+<Turn endTime="141.346" speaker="enquêteur" startTime="138.183">
+<Sync time="138.183"/>euh<Sync time="139.484"/>vous habitez avec vos parents</Turn>
+<Turn endTime="144.280" speaker="FRA2019_0100" startTime="141.679">
+<Sync time="141.679"/>oui j'habite avec ma mère oui depuis toujours</Turn>
+<Turn endTime="148.112" speaker="enquêteur" startTime="144.892">
+<Sync time="144.892"/>vos parents ils étaient originaires de la région</Turn>
+<Turn endTime="168.845" speaker="FRA2019_0100" startTime="148.305">
+<Sync time="148.305"/>non<Sync time="148.987"/>aucun des deux n'est n'est originaire de la région Île-de-france<Sync time="153.200"/>mon père lui il vient du Pakistan<Sync time="155.530"/>il est arrivé en France euh<Sync time="157.960"/>quand il avait dix-huit ans à peu près quant à ma mère elle venait de la Réunion<Sync time="162.180"/>elle aussi elle est arrivée en France euh à peu près à l'âge de ses vingt ans<Sync time="166.295"/>donc euh non aucun n'était originaire de de la région</Turn>
+<Turn endTime="171.361" speaker="enquêteur" startTime="169.890">
+<Sync time="169.890"/>euh que font-ils</Turn>
+<Turn endTime="181.941" speaker="FRA2019_0100" startTime="172.094">
+<Sync time="172.094"/>alors mon père lui est sérigraphe euh<Sync time="174.746"/>toujours le même métier depuis depuis qu'il est arrivé<Sync time="178.237"/>et ma mère elle est la à la ret- elle est la à elle est à la retraite</Turn>
+<Turn endTime="188.184" speaker="enquêteur" startTime="183.530">
+<Sync time="183.530"/>parlaient-ils euh une une une autre langue<Sync time="186.979"/>que les français</Turn>
+<Turn endTime="227.605" speaker="FRA2019_0100" startTime="188.948">
+<Sync time="188.948"/>alors ma mère elle elle parle autre que le français elle parle le créole réunionnais<Sync time="193.947"/>qu'elle maîtrise vu qu'elle vient de la Réunion<Sync time="196.094"/>mais elle peut aussi comprendre et parler les créoles des autres îles<Sync time="200.722"/>comme par exemple le créole martiniquais ou guadeloupéen<Sync time="204.696"/>mon père lui<Sync time="206.172"/>il parle d'autres langues que le français vu qu'il l'a appris qu'en arrivant en France<Sync time="210.533"/>il a su<Sync time="211.941"/>euh avant son arrivée euh bah il a appris l'anglais à l'école<Sync time="215.652"/>au Pakistan comme beaucoup d'enfants vu que c'est<Sync time="218.713"/>une ancienne colonie anglaise<Sync time="220.974"/>euh hum<Sync time="222.174"/>il parle aussi l'ourdou qui est la langue nationnale du pays et le pendjabi qui est la langue de sa région</Turn>
+<Turn endTime="239.212" speaker="enquêteur" startTime="230.687">
+<Sync time="230.687"/>donc euh<Sync time="232.035"/>euh vous pensez y a-t-il euh un<Sync time="234.738"/>impact sur votre processus d'apprentissage de la langue</Turn>
+<Turn endTime="254.595" speaker="FRA2019_0100" startTime="240.501">
+<Sync time="240.501"/>euh je<Sync time="242.770"/>pense que non vu que ma mère comme je l'ai dit surtout grandi avec elle<Sync time="247.514"/>et qu'elle parlait euh déjà le français<Sync time="250.293"/>en arrivant donc euh j'ai ça n'a pas trop changé mon processus d'apprentissage de la langue</Turn>
+<Turn endTime="260.300" speaker="enquêteur" startTime="256.830">
+<Sync time="256.830"/>aimeriez-vous vivre à Paris ou pas</Turn>
+<Turn endTime="279.786" speaker="FRA2019_0100" startTime="261.031">
+<Sync time="261.031"/>alors euh bon j'habite en banlieue donc on peut dire que c'est<Sync time="264.645"/>presque pareil et<Sync time="266.696"/>après vivre dans la capitale en elle-même pourquoi pas ça peut être intéressant comme j'ai dit chaque quartier a sa spécificité<Sync time="272.893"/>ça permettrait euh sans vraiment aller très loin de voyager un petit peu si on veut<Sync time="277.515"/>donc euh oui pourquoi pas ça peut être intéressant</Turn>
+<Turn endTime="285.658" speaker="enquêteur" startTime="281.939">
+<Sync time="281.939"/>êtes-vous avoir bonnes relations avec votre voisin</Turn>
+<Turn endTime="307.603" speaker="FRA2019_0100" startTime="286.416">
+<Sync time="286.416"/>oui ça va ça va bah<Sync time="288.104"/>comme je n'ai jamais déménagé<Sync time="290.591"/>j'ai grandi euh dans le même immeuble depuis toujours donc euh mes voisins ils me connaissent depuis que je suis tout petit euh<Sync time="297.029"/>vraiment tout petit ou autre les nouveaux euh<Sync time="300.405"/>je m'entends tout aussi bien avec eux vu que<Sync time="303.193"/>on les accueille assez bien dans l'immeuble<Sync time="305.064"/>donc ça va j'entretiens des bonnes relations avec euh tous les voisins</Turn>
+<Turn endTime="312.701" speaker="enquêteur" startTime="308.740">
+<Sync time="308.740"/>vos voisins sont-ils principal dans la même région que vous</Turn>
+<Turn endTime="315.583" speaker="FRA2019_0100" startTime="314.112">
+<Sync time="314.112"/>si te tu peux répéter s'il te</Turn>
+<Turn endTime="323.982" speaker="enquêteur" startTime="316.717">
+<Sync time="316.717"/>euh vos euh<Sync time="318.595"/>vos voisins sont-ils principal parler la même dialecte que vous</Turn>
+<Turn endTime="348.266" speaker="FRA2019_0100" startTime="324.415">
+<Sync time="324.415"/>ah euh oui la plupart ils parlent quand même tous français<Sync time="328.172"/>mais après euh y a quand même une grande majorité de Polonais<Sync time="332.769"/>donc ils parlent euh<Sync time="334.490"/>pour la plupart ils parlent tous couramment le polonais et ils ont appris euh le français en France<Sync time="339.870"/>et<Sync time="340.584"/>par contre leurs enfants eux ils parlent français mais aussi le polonais vu que s- à force de parler avec eux j'ai cru comprendre que c'était la langue qu'ils parlaient le plus à la maison</Turn>
+<Turn endTime="355.873" speaker="enquêteur" startTime="350.168">
+<Sync time="350.168"/>euh pensez-vous<Sync time="351.767"/>que leur accent a influence que sur vous</Turn>
+<Turn endTime="364.554" speaker="FRA2019_0100" startTime="356.442">
+<Sync time="356.442"/>alors<Sync time="357.408"/>peut-être pas sur moi non pas du tout<Sync time="360.577"/>mais sur leurs enfants à eux oui ça s'entend un peu euh<Sync time="363.582"/>des fois l'accent polonais</Turn>
+<Turn endTime="368.108" speaker="enquêteur" startTime="365.968">
+<Sync time="365.968"/>pensez-vous que vous avez une accent</Turn>
+<Turn endTime="371.476" speaker="FRA2019_0100" startTime="368.633">
+<Sync time="368.633"/>non moi je pense pas en avoir un justement</Turn>
+<Turn endTime="381.203" speaker="enquêteur" startTime="373.923">
+<Sync time="373.923"/>pensez-vous que les Parisiens ont une façon faç- façon<Sync time="379.025"/>particulière de parler</Turn>
+<Turn endTime="398.344" speaker="FRA2019_0100" startTime="382.193">
+<Sync time="382.193"/>alors de moi-même je<Sync time="384.560"/>pense pas pouvoir répondre à la question parce que habitant à Paris s'il y a un accent je l'entends pas vraiment<Sync time="389.379"/>par contre euh quand je vais voir ma famille dans le sud de la France là oui ils me disent que j'ai un accent parisien<Sync time="395.655"/>donc moi je ne l'entends pas mais bon il paraît qu'il est présent</Turn>
+<Turn endTime="411.077" speaker="enquêteur" startTime="401.158">
+<Sync time="401.158"/>euh excuse-moi<Sync time="409.038"/>quelle est votre profession actuelle</Turn>
+<Turn endTime="422.742" speaker="FRA2019_0100" startTime="411.911">
+<Sync time="411.911"/>alors pour le moment je suis en deuxième année<Sync time="415.593"/>de B.T.S. S.I.O. {sigle= Services Informatiques aux Organisations} option S.I.S.R. {sigle= Solutions d'Infrastructure Systèmes et Réseaux} donc en fait c'est euh<Sync time="420.917"/>de l'informatique orienté réseau</Turn>
+<Turn endTime="428.483" speaker="enquêteur" startTime="424.770">
+<Sync time="424.770"/>avez-vous eu une euh expérience de stage</Turn>
+<Turn endTime="445.050" speaker="FRA2019_0100" startTime="428.558">
+<Sync time="428.558"/>oui alors euh comme j'ai fait un baccalauréat professionnel euh<Sync time="433.424"/>y a deux dans déjà j'ai eu le temps de faire euh<Sync time="436.952"/>trois stages<Sync time="438.310"/>donc euh mes stages euh donc mon premier stage c'était en seconde<Sync time="442.603"/>ça a duré six semaines je l'ai fait dans une entreprise appelée </Turn>
+<Turn endTime="445.612" speaker="FRA2019_0100 enquêteur" startTime="445.050">
+<Sync time="445.050"/>
+<Who nb="1"/>#<Sync time="445.050"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="485.813" speaker="FRA2019_0100" startTime="445.612">
+<Sync time="445.612"/>donc c'est une entreprise française<Sync time="447.509"/>qui travaille euh dans tout ce qui est euh niveau dentaire donc qui vont fournir euh<Sync time="452.737"/>les dentistes euh en produits que ce soit<Sync time="457.074"/>différents produits prothèses ou autre<Sync time="459.565"/>donc euh pendant ce stage de six semaines comme c'était vraiment mon tout premier stage<Sync time="463.880"/>j'étais encadré par un technicien réseau<Sync time="466.517"/>donc euh qui s'occupait<Sync time="468.234"/>principalement de la maintenance utilisateur j'ai été ammené à travailler aussi avec les administateurs réseau et serveur<Sync time="475.659"/>qui m'ont pas mal appris<Sync time="477.113"/>puis pour mon deuxième stage donc en première qui a duré euh<Sync time="480.763"/>huit semaines<Sync time="482.430"/>donc euh oui deux mois je l'ai fait dans une entreprise qui s'appelle </Turn>
+<Turn endTime="486.382" speaker="FRA2019_0100 enquêteur" startTime="485.813">
+<Sync time="485.813"/>
+<Who nb="1"/>#<Sync time="485.813"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="488.472" speaker="FRA2019_0100" startTime="486.382">
+<Sync time="486.382"/>donc euh<Sync time="487.429"/>celle-ci elle est basée aux </Turn>
+<Turn endTime="489.003" speaker="FRA2019_0100 enquêteur" startTime="488.472">
+<Sync time="488.472"/>
+<Who nb="1"/>#<Sync time="488.472"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="511.096" speaker="FRA2019_0100" startTime="489.003">
+<Sync time="489.003"/>sur euh<Sync time="489.843"/>un grand site<Sync time="491.485"/>euh cette entreprise<Sync time="493.208"/>est cent pour cent financée par l'état français<Sync time="496.267"/>elle travaille sur le sang<Sync time="497.537"/>par exemple quand vous faites un don du sang bah votre sang il va aller là bas<Sync time="500.978"/>y a une partie qui va être utilisée pour les recherches et une autre partie qui va être<Sync time="505.240"/>redistribuée aux hôpitaux en cas de grands problèmes comme par exemple quand y a eu les attentats en France<Sync time="510.772"/>c'est </Turn>
+<Turn endTime="511.570" speaker="FRA2019_0100 enquêteur" startTime="511.096">
+<Sync time="511.096"/>
+<Who nb="1"/>#<Sync time="511.096"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="542.123" speaker="FRA2019_0100" startTime="511.570">
+<Sync time="511.570"/>qui a fourni les hôpitaux en sang s'ils en avaient besoin<Sync time="514.739"/>donc euh pendant ce stage j'ai<Sync time="516.925"/>été pareil s-<Sync time="518.532"/>euh en tant que technicien réseau<Sync time="520.607"/>moi cette fois-ci mais bon même s'il était en première année<Sync time="523.440"/>mon tuteur était quant à lui l'admi- euh administrateur<Sync time="526.945"/>réseau<Sync time="528.403"/>donc euh pareil il avait une formation avec un bac+2<Sync time="531.721"/>et durant ce stage j'ai pu apprendre euh beaucoup de choses ça m'a permis de voir euh<Sync time="537.489"/>comment gérer l'infrastructure d'une entreprise qui est quand même beaucoup plus grande que celle que j'ai pu voir à </Turn>
+<Turn endTime="542.603" speaker="FRA2019_0100 enquêteur" startTime="542.123">
+<Sync time="542.123"/>
+<Who nb="1"/>#<Sync time="542.123"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="550.768" speaker="FRA2019_0100" startTime="543.921">
+<Sync time="543.921"/>et pour mon stage de terminale<Sync time="546.131"/>cette fois-ci qui a duré quant à lui six semaines je l'ai refait dans la m- même entreprise c'est-à-dire au </Turn>
+<Turn endTime="551.229" speaker="FRA2019_0100 enquêteur" startTime="550.768">
+<Sync time="550.768"/>
+<Who nb="1"/>#<Sync time="550.768"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="625.771" speaker="FRA2019_0100" startTime="551.816">
+<Sync time="551.816"/>cette fois-ci vu que j'avais dé- déjà de l'expérience en plus de ce que j'avais appris en cours euh et du fait que je connaissais déjà l'entreprise<Sync time="559.061"/>j'étais beaucoup plus autonome on m'a laissé plus de libertés<Sync time="562.760"/>et j'ai pu cette fois-ci me détacher des administrateurs<Sync time="565.819"/>euh réseau pour aller voir euh<Sync time="567.372"/>pour travailler par exemple avec euh<Sync time="569.475"/>un peu des développeurs et un peu de tout pour vraiment voir euh<Sync time="573.188"/>un peu de tout en informatique<Sync time="575.467"/>et<Sync time="576.780"/>je sais pas vraiment si ça peut compter comme une expérience de stage mais comme je suis en alternance ça veut dire que je suis une semaine en cours une semaine euh au travail<Sync time="583.762"/>donc je pense qu'on peut le compter aussi<Sync time="585.793"/>donc euh bon cette fois-ci pour mon B.T.S. j'ai pas pu trouver de euh<Sync time="590.165"/>d'employeur donc le rectorat de Créteil<Sync time="593.088"/>m'a fourni un emploi dans un lycée<Sync time="595.374"/>lycée<Sync time="596.221"/>enfin la cité scolaire Edouard Branly de Nogent-sur-Marne<Sync time="599.511"/>qui fait collège et lycée<Sync time="600.915"/>j'y travaille en tant que administrateur réseau euh système<Sync time="605.001"/>donc là-bas je m'occupe vraiment de tout le parc informatique j'ai fait beaucoup de du d'aide utilisateur<Sync time="611.504"/>comme j'ai pas le droit de toucher au serveur mes actions sont assez restreintes mais<Sync time="615.523"/>j'essaye quand même de monter euh mes serveurs pour avoir un contrôle total dessus<Sync time="620.156"/>donc euh j'y suis une semaine sur deux et pendant la plupart du temps pendant les vacances<Sync time="625.518"/>voilà</Turn>
+<Turn endTime="632.134" speaker="enquêteur" startTime="627.385">
+<Sync time="627.385"/>euh après<Sync time="628.351"/>après euh euh qu'allez-vous faites<Sync time="631.686"/>euh</Turn>
+<Turn endTime="728.069" speaker="FRA2019_0100" startTime="633.326">
+<Sync time="633.326"/>alors<Sync time="633.976"/>ah si j'ai mon B.T.S. dans le cas où je l'ai je compte soit me mettre dans une boîte d'interim pour essayer de<Sync time="640.428"/>voir un peu de tous les différents types d'entreprise voir ce qui va me correspondre le mieux<Sync time="645.251"/>euh si je ne fais pas ça je comptais faire une licence en alternance en sécurité informatique cette fois parce que la sécurité ça reste quand même euh<Sync time="654.576"/>quelque chose qui est<Sync time="656.793"/>euh très très discuté en entreprise on recherche beaucoup de<Sync time="661.087"/>personnes pour la sécurité informatique<Sync time="663.310"/>donc je me dis que<Sync time="664.682"/>faire une année de plus<Sync time="666.538"/>et pour découvrir vraiment de nouvelles choses qui pourront m'être très très utiles je me suis dit que ça peut être très très intéressant<Sync time="672.337"/>ou y a aussi une autre école euh qui s'est proposée<Sync time="676.641"/>à moi et aux élèves de ma classe pour euh<Sync time="679.838"/>qu'on fasse un master 1 pareil en sécurité informatique donc cette fois-ci ça ça va être en deux ans<Sync time="685.792"/>et je trouve<Sync time="687.483"/>que ça peut être une très très bonne opportunité sachant qu'ils ont plein d'entreprises partenaires<Sync time="693.522"/>euh la tâche de trouver un employeur ne sera plus la mienne<Sync time="696.291"/>donc euh c'est déjà un très gros gain pour moi<Sync time="699.612"/>surtout que selon le type de structure dans lequel on veut évoluer ils se tâcheront de trouver ce qui correspond le mieux<Sync time="706.652"/>donc euh j'hésite vraiment entre euh ces trois chemins mais je pense que je me dirigerai plutôt vers la licence<Sync time="713.207"/>parce que ce n'est que une année de plus donc euh<Sync time="716.880"/>c'est que du contrôle continu donc euh en travaillant régulièrement<Sync time="720.855"/>toute l'année je pense que je peux me perme- je pourrais avoir cette license<Sync time="724.872"/>qui sera un peu<Sync time="725.813"/>plus facile quand même d'avoir que le master</Turn>
+<Turn endTime="729.632" speaker="FRA2019_0100 enquêteur" startTime="729.228">
+<Sync time="729.228"/>
+<Who nb="1"/>voilà<Sync time="729.310"/>
+<Who nb="2"/>merci</Turn>
+<Turn endTime="730.700" speaker="FRA2019_0100" startTime="730.258">
+<Sync time="730.258"/>de rien</Turn>
+<Turn endTime="737.277" speaker="enquêteur" startTime="731.184">
+<Sync time="731.184"/>avez-vous un souvenir d'enfance qui vous est particul- particulière marqué</Turn>
+<Turn endTime="755.044" speaker="FRA2019_0100" startTime="738.460">
+<Sync time="738.460"/>euh<Sync time="739.628"/>alors là c'est c'est une bonne question<Sync time="742.574"/>parce que j'en ai<Sync time="744.583"/>plusieurs quand même mais bon j-<Sync time="747.401"/>qu'est-ce que je pourrais dire<Sync time="750.153"/>euh<Sync time="753.263"/>ah c'est vrai que c'est une bonne question</Turn>
+<Turn endTime="757.441" speaker="enquêteur" startTime="756.432">
+<Sync time="756.432"/>prends ton temps c'est pas grave</Turn>
+<Turn endTime="759.627" speaker="FRA2019_0100 enquêteur" startTime="757.441">
+<Sync time="757.441"/>
+<Who nb="2"/>
+<Sync time="757.884"/>
+<Who nb="1"/>non mais s-</Turn>
+<Turn endTime="814.839" speaker="FRA2019_0100" startTime="759.894">
+<Sync time="759.894"/>je pense que c'est quand même la première fois que je suis allé au Pakistan<Sync time="763.663"/>parce que j'avais<Sync time="766.048"/>pendant très longtemps donc euh j'y suis allé pour la première fois quand j'avais dix ans je crois<Sync time="771.154"/>et que j'avais<Sync time="772.562"/>pendant<Sync time="773.321"/>toute mon enfance donc depuis ce depuis ce jour-là<Sync time="776.785"/>j'ai à chaque fois mon père me parlait de<Sync time="779.484"/>tous mes cousins cousines et oncles euh<Sync time="782.419"/>toute la famille que je n'avais jamais vue dont j'entendais simplement parler<Sync time="786.585"/>et donc la prèmière fois que j'y suis allé bah ça m'a permis de les découvrir tous vraiment euh<Sync time="790.819"/>ça fait quand même toute une moitié de famille que j'ai pu euh<Sync time="794.235"/>voir d'un seul coup donc j'ai pu voir euh<Sync time="797.147"/>vraiment beaucoup beaucoup de monde de ma famille donc mes grands-parents<Sync time="800.183"/>cette année en plus j'avais de la chance donc c'était y avait un mariage aussi euh<Sync time="804.354"/>la fois où j'y suis allé donc j'ai pu voir comment ça se passait euh les mariages au Pakistan que c'était totalement différent de ce qu'y avait en France ça a duré plus longtemps et c'était<Sync time="812.585"/>je dirais plus festif<Sync time="814.372"/>voilà</Turn>
+<Turn endTime="822.249" speaker="enquêteur" startTime="815.447">
+<Sync time="815.447"/>merci<Sync time="818.228"/>euh<Sync time="819.856"/>où vous êtes-vous allé à l'école<Sync time="822.053"/>avant</Turn>
+<Turn endTime="829.992" speaker="FRA2019_0100" startTime="823.424">
+<Sync time="823.424"/>alors là où je vais à l'école c'est<Sync time="827.047"/>maintenant actuellement c'est au lycée professionnel </Turn>
+<Turn endTime="831.122" speaker="FRA2019_0100 enquêteur" startTime="829.992">
+<Sync time="829.992"/>
+<Who nb="1"/>#<Sync time="829.992"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="832.285" speaker="FRA2019_0100" startTime="831.980">
+<Sync time="831.980"/>donc </Turn>
+<Turn endTime="832.903" speaker="FRA2019_0100 enquêteur" startTime="832.285">
+<Sync time="832.285"/>
+<Who nb="1"/>#<Sync time="832.285"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="837.413" speaker="FRA2019_0100" startTime="832.903">
+<Sync time="832.903"/>c'est dans la banlieue parisienne dans le 94<Sync time="836.066"/>donc c'est pas très loin de</Turn>
+<Turn endTime="839.919" speaker="FRA2019_0100 enquêteur" startTime="837.413">
+<Sync time="837.413"/>
+<Who nb="1"/>#<Sync time="837.413"/>
+<Who nb="2"/>#<Sync time="838.793"/>
+<Who nb="1"/>#<Sync time="838.793"/>
+<Who nb="2"/>#</Turn>
+<Turn endTime="851.826" speaker="FRA2019_0100" startTime="841.281">
+<Sync time="841.281"/>et j'y suis depuis ma seconde vu que j'ai fait mon bac professionnel là-bas<Sync time="846.914"/>et que je continue en B.T.S. toujours là-bas avec euh<Sync time="850.058"/>ouais pas les mêmes professeurs</Turn>
+<Turn endTime="856.671" speaker="enquêteur" startTime="853.198">
+<Sync time="853.198"/>l'école se trouvait-elle<Sync time="855.610"/>loin de chez vous</Turn>
+<Turn endTime="869.935" speaker="FRA2019_0100" startTime="856.931">
+<Sync time="856.931"/>alors là s- non<Sync time="858.410"/>pas du tout elle était<Sync time="860.096"/>enfin elle est toujours à peu près<Sync time="863.391"/>moins d'une dizaine de minutes à pied<Sync time="865.457"/>donc euh<Sync time="866.372"/>c'est très très bien<Sync time="868.818"/>c'est vraiment à côté</Turn>
+<Turn endTime="875.453" speaker="enquêteur" startTime="871.291">
+<Sync time="871.291"/>euh et quelle est la région de vos instituteurs</Turn>
+<Turn endTime="894.211" speaker="FRA2019_0100" startTime="876.779">
+<Sync time="876.779"/>euh ils viennent<Sync time="878.117"/>tous pour la plu-<Sync time="879.642"/>-part de région Île-de-france<Sync time="882.766"/>un professeur que j'avais<Sync time="885.518"/>euh de ma seconde jusqu'à ma première année de B.T.S. qui venait lui aussi de la Réunion<Sync time="890.633"/>voilà<Sync time="891.669"/>mais sinon pour la plupart ils viennent tous de région Île-de-france</Turn>
+<Turn endTime="903.540" speaker="enquêteur" startTime="895.700">
+<Sync time="895.700"/>vous souvenez-vous d'un<Sync time="899.072"/>instituteur qui vous a laissé un très bon souvenir</Turn>
+<Turn endTime="933.682" speaker="FRA2019_0100" startTime="904.070">
+<Sync time="904.070"/>alors là oui c'est euh<Sync time="907.821"/>c'est le professeur principal que j'avais en seconde<Sync time="911.699"/>qui m'a accompagné jusqu'à la terminale et qui est toujours mon professeur maintenant alors il m'a<Sync time="916.034"/>toujours laissé bon souvenir parce que vraiment<Sync time="918.699"/>euh la première fois que je suis allé dans ce lycée donc c'était quand même pour ma seconde<Sync time="924.188"/>dès le premier jour il nous a laissé une très très bonne impression<Sync time="928.087"/>quelqu'un qu'on voyait qui était gentil très très impliqué dans son travail<Sync time="932.151"/>et qui faisait tout vraiment pour que c-</Turn>
+</Section>
+</Episode>
+</Trans>

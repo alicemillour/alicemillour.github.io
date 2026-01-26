@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="pokedex.xsl"?>
+<pokedex>
+    <pokemon id="0019">
+        <nom>Rattata d'Alola</nom>
+        <types>
+            <type>Normal</type>
+            <type>Ténèbres</type>
+        </types>
+        <points_de_vie>40</points_de_vie>
+        <talents>
+            <talent type="normal">Agitation</talent>
+            <talent type="normal">Isograisse</talent>
+            <talent type="caché">Gloutonnerie</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. Avec ses incisives, il peut ronger les portes des maisons pour s’y introduire. Ses moustaches vibrent pour détecter la nourriture à dérober.</description>
+            <description numero="2">2. Quand le soleil se couche, les Rattata sortent et parcourent la ville en groupe à la recherche de nourriture pour leur chef de bande, un Rattatac.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/019-alola.png"/>
+    </pokemon>
+
+    <pokemon id="0020">
+        <nom>Rattatac d'Alola</nom>
+        <evolution_de>Rattata d'Alola</evolution_de>
+        <types>
+            <type>Normal</type>
+            <type>Ténèbres</type>
+        </types>
+        <points_de_vie>120</points_de_vie>
+        <talents>
+            <talent type="normal">Agitation</talent>
+            <talent type="normal">Isograisse</talent>
+            <talent type="caché">Gloutonnerie</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. Il rassemble des bandes de Rattata sous son autorité. Chaque bande a son territoire où les membres se disputent la nourriture.</description>
+            <description numero="2">2. Un Pokémon gastronome et extrêmement pointilleux sur sa nourriture. On dit que les restaurants où vit un Rattatac sont les meilleurs.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/020-alola.png"/>
+    </pokemon>
+
+    <pokemon id="0165">
+        <nom>Coxy</nom>
+        <types>
+            <type>Insecte</type>
+            <type>Vol</type>
+        </types>
+        <points_de_vie>50</points_de_vie>
+        <talents>
+            <talent type="normal">Essaim</talent>
+            <talent type="normal">Matinal</talent>
+            <talent type="caché">Phobique</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. Il est si timide qu’il est inquiet s’il n’est pas en groupe. Les motifs sur son dos diffèrent légèrement d’un individu à l’autre.</description>
+            <description numero="2">2. Il communique avec ses congénères grâce à un fluide odorant. Quand il est en colère, l’odeur en devient vraiment aigre.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/165.png"/>
+    </pokemon>
+
+    <pokemon id="0166">
+        <nom>Coxyclaque</nom>
+        <evolution_de>Coxy</evolution_de>
+        <types>
+            <type>Insecte</type>
+            <type>Vol</type>
+        </types>
+        <points_de_vie>90</points_de_vie>
+        <talents>
+            <talent type="normal">Essaim</talent>
+            <talent type="normal">Matinal</talent>
+            <talent type="caché">Point de fer</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. On dit qu’il se nourrit de la lumière des étoiles, mais il mange aussi des Baies comme les autres. Il dort pendant la journée dans un lit d’herbes.</description>
+            <description numero="2">2. Il se bat en frappant avec ses quatre poings. Chaque coup ne fait pas très mal mais assénées en rafale, ses attaques sont dévastatrices.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/166.png"/>
+    </pokemon>
+
+    <pokemon id="0050">
+        <nom>Taupiqueur d'Alola</nom>
+        <types>
+            <type>Sol</type>
+            <type>Acier</type>
+        </types>
+        <points_de_vie>50</points_de_vie>
+        <talents>
+            <talent type="normal">Voile sable</talent>
+            <talent type="normal">Mèche rebelle</talent>
+            <talent type="caché">Force sable</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. L’épi doré qui pousse sur sa tête est une mutation. Il communique avec ses congénères en oscillant doucement.</description>
+            <description numero="2">2. Il se sert de l’épi doré sur sa tête comme d’une antenne et la laisse sortir de son terrier.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/050-alola.png"/>
+    </pokemon>
+
+    <pokemon id="0051">
+        <nom>Triopiqueur d'Alola</nom>
+        <evolution_de>Taupiqueur d'Alola</evolution_de>
+        <types>
+            <type>Sol</type>
+            <type>Acier</type>
+        </types>
+        <points_de_vie>100</points_de_vie>
+        <talents>
+            <talent type="normal">Voile sable</talent>
+            <talent type="normal">Mèche rebelle</talent>
+            <talent type="caché">Force sable</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. Sa chevelure d’or étincelante lui permet de protéger son corps. On dit que ramasser ses cheveux tombés au sol porte malheur.</description>
+            <description numero="2">2. Les habitants d’Alola en prennent grand soin, car ils le voient comme une incarnation des déesses de la terre.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/051-alola.png"/>
+    </pokemon>
+
+    <pokemon id="0072">
+        <nom>Tentacool</nom>
+        <types>
+            <type>Eau</type>
+            <type>Poison</type>
+        </types>
+        <points_de_vie>60</points_de_vie>
+        <talents>
+            <talent type="normal">Corps sain</talent>
+            <talent type="normal">Suintement</talent>
+            <talent type="caché">Cuvette</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. On en trouve parfois échoués sur le sable et desséchés, mais certains sont encore en vie. Il suffit de les mettre à l’eau pour les ranimer.</description>
+            <description numero="2">2. Il flotte dans les chenaux sablonneux. En cas de piqûre par l’un de ses tentacules empoisonnés, il faut aller à l’hôpital de toute urgence.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/072.png"/>
+    </pokemon>
+
+    <pokemon id="0073">
+        <nom>Tentacruel</nom>
+        <evolution_de>Tentacool</evolution_de>
+        <types>
+            <type>Eau</type>
+            <type>Poison</type>
+        </types>
+        <points_de_vie>110</points_de_vie>
+        <talents>
+            <talent type="normal">Corps sain</talent>
+            <talent type="normal">Suintement</talent>
+            <talent type="caché">Cuvette</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. Ce Pokémon a en moyenne 80 tentacules venimeux. Plus un spécimen vit longtemps, moins il lui en reste.</description>
+            <description numero="2">2. Il arrive qu’une foule de Tentacruel se regroupe en masse dans la mer. Lorsque cela arrive, tous les Pokémon poissons alentour disparaissent.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/073.png"/>
+    </pokemon>
+
+    <pokemon id="0759">
+        <nom>Nounourson</nom>
+        <types>
+            <type>Normal</type>
+            <type>Combat</type>
+        </types>
+        <points_de_vie>70</points_de_vie>
+        <talents>
+            <talent type="normal">Boule de poils</talent>
+            <talent type="normal">Maladresse</talent>
+            <talent type="caché">Joli sourire</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. Il est à croquer, sauf lorsqu’il s’énerve et frappe à tout va. Dans ce cas, laissez-le tranquille ou vous finirez à coup sûr dans le décor.</description>
+            <description numero="2">2. Ne tentez pas de le caresser s’il ne vous connaît pas assez : il entrerait dans une rage folle, et vous encourriez un grand danger.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/759.png"/>
+    </pokemon>
+
+    <pokemon id="0760">
+        <nom>Chelours</nom>
+        <evolution_de>Nounourson</evolution_de>
+        <types>
+            <type>Normal</type>
+            <type>Combat</type>
+        </types>
+        <points_de_vie>120</points_de_vie>
+        <talents>
+            <talent type="normal">Boule de poils</talent>
+            <talent type="normal">Maladresse</talent>
+            <talent type="caché">Tension</talent>
+        </talents>
+        <descriptions>
+            <description numero="1">1. Sa force physique hors norme le rend assez dangereux. D’ailleurs, les zones qu’il habite sont systématiquement interdites d’accès.</description>
+            <description numero="2">2. Il fête chaque victoire par une accolade avec son Dresseur, au grand dam de ce dernier, et en particulier de sa colonne vertébrale.</description>
+        </descriptions>
+        <image url="https://www.pokemontrash.com/images/soleil-lune/sprites/760.png"/>
+    </pokemon>
+</pokedex>
