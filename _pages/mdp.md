@@ -56,7 +56,6 @@ author_profile: true
 - <a href="/assets/cours/MdlP/arrays.zip"> arrays.zip </a>
 
 <h3 id="mdlp-2"> Seance 10 - 11/12/2025 </h3>
-- <a href=""> </a>
 
 
 <!--
