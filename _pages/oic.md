@@ -5,7 +5,7 @@ permalink: /oic/
 author_profile: true
 ---
 ## Planning par semaine 
-1. semaine du 26/01 oic_01 <a href="https://hackmd.io/-R75Pjj6RqCN71iVZIVHuA?view"> L1-X </a>), <a href=""> L1-Y </a>), <a href=""> L1-Z </a>), 
+1. semaine du 26/01 oic_01 <a href="https://hackmd.io/@alicemillour/HkzowrIdyg"> L1-X </a>, <a href="https://hackmd.io/@alicemillour/ryeB7BDLZg"> L1-Y </a>, <a href="https://hackmd.io/@alicemillour/H13juUwI-x"> L1-Z </a> 
 2. semaine du 02/02 oic_0
 3. semaine du 09/02 oic_03
 4. semaine du 16/02 oic_04 <br><br>
