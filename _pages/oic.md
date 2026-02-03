@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Planning par semaine 
 1. semaine du 26/01 oic_01 <a href="https://hackmd.io/@alicemillour/HkzowrIdyg"> L1-X </a>, <a href="https://hackmd.io/@alicemillour/ryeB7BDLZg"> L1-Y </a>, <a href="https://hackmd.io/@alicemillour/H13juUwI-x"> L1-Z </a> 
-2. semaine du 02/02 oic_0 <a href="https://pads.up8.edu/rSnhf6DsRsehF-nlN4HZ_Q?view" </a>
+2. semaine du 02/02 oic_0 <a href="https://pads.up8.edu/rSnhf6DsRsehF-nlN4HZ_Q?view"> TP2 </a>
 3. semaine du 09/02 oic_03
 4. semaine du 16/02 oic_04 <br><br>
 ** Pause pédagogique **<br><br>
