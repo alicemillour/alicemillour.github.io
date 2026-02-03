@@ -9,7 +9,7 @@ author_profile: true
 
 ## Planning CM (L3-X et L3-Y)
 1. 27/01 idl_01  <a href="https://hackmd.io/iTBqUoiWSRONi9hnW1f-hw"> Intro à IDL </a>
-3. 03/02 idl_02 Étapes analyse linguistique <!-- https://hackmd.io/NtMPLlO4QZSMqZHqi0MT6A -->
+3. 03/02 idl_02  <a href="https://hackmd.io/NtMPLlO4QZSMqZHqi0MT6A"> Étapes analyse linguistique </a>
 3. 10/02 idl_03 Métriques d'évaluation <!-- https://hackmd.io/bpqo1HmmSu2KIezCWuCmBg -->
 5. 17/02 idl_04 Chaînes de Markov, génération de texte <!-- https://hackmd.io/AeeXg7NWSoGnMt9CZxwo3A -->
 5. <b>18/02</b> idl_05 Chaînes de Markov cachées, annotation en POS <!-- https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA --> 
@@ -24,7 +24,7 @@ author_profile: true
 ## Planning TP L3-X le mercredi de 12h à 15h en A175 A. Millour
 
 - TP1 L3X 28/01 <a href="https://pads.up8.edu/w8tzLbRpTsqrDCBH9s_-xg?view"> XML / XSLT </a>
-- TP2 L3X 04/02
+- TP2 L3X 04/02 <a href="https://hackmd.io/1XWQ4hU-SImiAQq2WqXKYg"> Découpage en phrases et en mots </a>
 - TP3 L3X 11/02
 - TP4 L3X 18/02
 - TP5 L3X 04/03
