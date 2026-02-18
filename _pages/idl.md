@@ -26,7 +26,7 @@ author_profile: true
 - TP1 L3X 28/01 <a href="https://pads.up8.edu/w8tzLbRpTsqrDCBH9s_-xg?view"> XML / XSLT </a>
 - TP2 L3X 04/02 <a href="https://hackmd.io/1XWQ4hU-SImiAQq2WqXKYg"> Découpage en phrases et en mots </a>
 - TP3 L3X 11/02 <a href="https://hackmd.io/NgPE_qaZQlO5DLBpMGXwjg"> Identification de langue </a>
-- TP4 L3X 18/02 <a href="https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA"> Modèles de Markov cachés et annotation en parties du discours</a>
+- TP4 L3X 18/02 <a href="https://hackmd.io/ESBGG8uUQoK_qTneaZMgHQ?view"> Génération de texte avec des chaînes de Markov</a>
 - TP5 L3X 04/03
 - TP6 L3X 18/03
 - TP7 L3X 25/03 
