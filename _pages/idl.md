@@ -11,8 +11,8 @@ author_profile: true
 1. 27/01 idl_01  <a href="https://hackmd.io/iTBqUoiWSRONi9hnW1f-hw"> Intro à IDL </a>
 3. 03/02 idl_02  <a href="https://hackmd.io/NtMPLlO4QZSMqZHqi0MT6A"> Étapes analyse linguistique </a>
 3. 10/02 idl_03 <a href="https://hackmd.io/bpqo1HmmSu2KIezCWuCmBg?view"> Métriques d'évaluation </a><!-- https://hackmd.io/bpqo1HmmSu2KIezCWuCmBg -->
-5. 17/02 idl_04 Chaînes de Markov, génération de texte <!-- https://hackmd.io/AeeXg7NWSoGnMt9CZxwo3A -->
-5. <b>18/02</b> idl_05 Chaînes de Markov cachées, annotation en POS <!-- https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA --> 
+5. 17/02 idl_04 <a href="https://hackmd.io/AeeXg7NWSoGnMt9CZxwo3A"> Chaînes de Markov, génération de texte </a> <!-- https://hackmd.io/AeeXg7NWSoGnMt9CZxwo3A -->
+5. <b>18/02</b> <a href="https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA"> Chaînes de Markov cachées, annotation en POS </a><!-- https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA --> 
 (<span style="color:red;">Attention ce cours aura lieu pendant le créneau de Droit, éthique, informatique à 16h30 le mercredi en C006</span>)
 
 6. 03/03 idl_06 Word Vectors  <!-- https://hackmd.io/ObRn2W1PTo-NcPZEUbHhEQ -->
@@ -26,7 +26,7 @@ author_profile: true
 - TP1 L3X 28/01 <a href="https://pads.up8.edu/w8tzLbRpTsqrDCBH9s_-xg?view"> XML / XSLT </a>
 - TP2 L3X 04/02 <a href="https://hackmd.io/1XWQ4hU-SImiAQq2WqXKYg"> Découpage en phrases et en mots </a>
 - TP3 L3X 11/02 <a href="https://hackmd.io/NgPE_qaZQlO5DLBpMGXwjg"> Identification de langue </a>
-- TP4 L3X 18/02
+- TP4 L3X 18/02 <a href="https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA"> Modèles de Markov cachés et annotation en parties du discours</a>
 - TP5 L3X 04/03
 - TP6 L3X 18/03
 - TP7 L3X 25/03 
