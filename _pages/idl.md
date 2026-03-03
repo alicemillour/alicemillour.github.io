@@ -15,7 +15,7 @@ author_profile: true
 5. <b>18/02</b> <a href="https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA"> Chaînes de Markov cachées, annotation en POS </a><!-- https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA --> 
 (<span style="color:red;">Attention ce cours aura lieu pendant le créneau de Droit, éthique, informatique à 16h30 le mercredi en C006</span>)
 
-6. 03/03 idl_06 Word Vectors  <!-- https://hackmd.io/ObRn2W1PTo-NcPZEUbHhEQ -->
+6. 03/03 idl_06 Word Vectors <a href="https://hackmd.io/ObRn2W1PTo-NcPZEUbHhEQ?view">
 7. 24/03 idl_07 Similarité entre documents TF/IDF <!-- https://hackmd.io/4LLHKj9AQoOnVC9cDs9J_w -->
 8. 31/03 idl_08 Classification de documents <!-- https://hackmd.io/RKmHpKhbSNOJPY4-abwYvg -->
 10. 07/04 idl_09 Intro aux gros modèles de langue
