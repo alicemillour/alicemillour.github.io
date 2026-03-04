@@ -15,7 +15,7 @@ author_profile: true
 5. <b>18/02</b> <a href="https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA"> Chaînes de Markov cachées, annotation en POS </a><!-- https://hackmd.io/rNxJQ8OhTCSxssklbzwLeA --> 
 (<span style="color:red;">Attention ce cours aura lieu pendant le créneau de Droit, éthique, informatique à 16h30 le mercredi en C006</span>)
 
-6. 03/03 idl_06 Word Vectors <a href="https://hackmd.io/ObRn2W1PTo-NcPZEUbHhEQ?view">
+6. 03/03 idl_06 <a href="https://hackmd.io/ObRn2W1PTo-NcPZEUbHhEQ?view"> Word Vectors </a>
 7. 24/03 idl_07 Similarité entre documents TF/IDF <!-- https://hackmd.io/4LLHKj9AQoOnVC9cDs9J_w -->
 8. 31/03 idl_08 Classification de documents <!-- https://hackmd.io/RKmHpKhbSNOJPY4-abwYvg -->
 10. 07/04 idl_09 Intro aux gros modèles de langue
@@ -27,7 +27,7 @@ author_profile: true
 - TP2 L3X 04/02 <a href="https://hackmd.io/1XWQ4hU-SImiAQq2WqXKYg"> Découpage en phrases et en mots </a>
 - TP3 L3X 11/02 <a href="https://hackmd.io/NgPE_qaZQlO5DLBpMGXwjg"> Identification de langue </a>
 - TP4 L3X 18/02 <a href="https://hackmd.io/ESBGG8uUQoK_qTneaZMgHQ?view"> Génération de texte avec des chaînes de Markov</a>
-- TP5 L3X 04/03
+- TP5 L3X 04/03 <a href="https://hackmd.io/oCYeIz7lQDWmo1FxOVmZ3A"> Construction d'un HMM pour l'étiquetage morphosyntaxique automatique </a>
 - TP6 L3X 18/03
 - TP7 L3X 25/03 
 - TP8 L3X 01/04 
