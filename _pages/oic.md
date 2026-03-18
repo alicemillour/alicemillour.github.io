@@ -10,10 +10,21 @@ author_profile: true
 3. semaine du 09/02 oic_03 <a href="https://pads.up8.edu/vZCmzUmASQKVDAs9atnOug?view"> TP3 </a>
 4. semaine du 16/02 oic_04 <a href="https://pads.up8.edu/fuyh0d-dQpai4S_8OvwEbA#"> TP4 </a>
 <br><br> ** Pause pédagogique **<br><br>
-5. semaine du 02/03 oic_05 <br><br> (Pour les L1-X, cours de 16h30 à 18h00 le mardi au lieu de 13h30 à 15h00 : échange avec le cours de B. Dupont) 
+5. semaine du 02/03 oic_05 <a href="https://hackmd.io/a2UhV37aRFWlmRJJt9J_fw"> TP5 </a>
 ** pas cours la semaine du 09/03 **<br><br>
-6. semaine du 16/03 oic_06 
-7. semaine du 23/03 oic_07
+6. semaine du 16/03 oic_06 <a href="https://pads.up8.edu/iNt4IhYxTqO6mSQLjvvrNw"> TP6 </a>
+<br><br>
+Binômes (pas de groupe de 3) à créer <a href="https://lite.framacalc.org/q6ty4baih4-ak71"> ici </a> <br>
+Les consignes initiales pour le projet sont <a href="https://pads.up8.edu/JSp0b823R6KoSuHSg0aUNw"> là </a> 
+
+<br><br>
+7. semaine du 23/03 oic_07 
 8. semaine du 30/03 oic_08
+<br>
+La première itération doit être prête pour le 05/04 afin que la circulation des projets avant l'itération 2 puisse être faite la semaine du 06.
+<br>
 9. semaine du 06/04 oic_09
 10. semaine du 13/04 oic_10
+<br>
+Évaluation sous forme de soutenance de 10-15 minutes en binôme (dates à définir semaine du 13/04 ou semaine du 27/04) <br>
+
