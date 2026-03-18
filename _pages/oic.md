@@ -11,13 +11,12 @@ author_profile: true
 4. semaine du 16/02 oic_04 <a href="https://pads.up8.edu/fuyh0d-dQpai4S_8OvwEbA#"> TP4 </a>
 <br><br> ** Pause pédagogique **<br><br>
 5. semaine du 02/03 oic_05 <a href="https://hackmd.io/a2UhV37aRFWlmRJJt9J_fw"> TP5 </a>
-** pas cours la semaine du 09/03 **<br><br>
+** pas cours la semaine du 09/03 **<br>
 6. semaine du 16/03 oic_06 <a href="https://pads.up8.edu/iNt4IhYxTqO6mSQLjvvrNw"> TP6 </a>
-<br><br>
+<br>
 Binômes (pas de groupe de 3) à créer <a href="https://lite.framacalc.org/q6ty4baih4-ak71"> ici </a> <br>
 Les consignes initiales pour le projet sont <a href="https://pads.up8.edu/JSp0b823R6KoSuHSg0aUNw"> là </a> 
-
-<br><br>
+<br>
 7. semaine du 23/03 oic_07 
 8. semaine du 30/03 oic_08
 <br>
