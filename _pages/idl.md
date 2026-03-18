@@ -27,7 +27,7 @@ author_profile: true
 - TP2 L3X 04/02 <a href="https://hackmd.io/1XWQ4hU-SImiAQq2WqXKYg"> Découpage en phrases et en mots </a>
 - TP3 L3X 11/02 <a href="https://hackmd.io/NgPE_qaZQlO5DLBpMGXwjg"> Identification de langue </a>
 - TP4 L3X 18/02 <a href="https://hackmd.io/ESBGG8uUQoK_qTneaZMgHQ?view"> Génération de texte avec des chaînes de Markov</a>
-- TP5 L3X 04/03
+- TP5 L3X 04/03 <a href="https://hackmd.io/ObRn2W1PTo-NcPZEUbHhEQ"> Word Vectors </a>
 - TP6 L3X 18/03
 - TP7 L3X 25/03 
 - TP8 L3X 01/04 
