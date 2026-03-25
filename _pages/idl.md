@@ -16,7 +16,7 @@ author_profile: true
 (<span style="color:red;">Attention ce cours aura lieu pendant le créneau de Droit, éthique, informatique à 16h30 le mercredi en C006</span>)
 
 6. 03/03 <a href="https://hackmd.io/VtyqX4cYT0GZ5Q26wKd8Jg?view"> idl_06 Word Vectors </a> <!-- https://hackmd.io/ObRn2W1PTo-NcPZEUbHhEQ -->
-7. 24/03 idl_07 Similarité entre documents TF/IDF <!-- https://hackmd.io/4LLHKj9AQoOnVC9cDs9J_w -->
+7. 24/03 <a href="https://hackmd.io/4LLHKj9AQoOnVC9cDs9J_w"> idl_07 Similarité entre documents TF/IDF <!-- https://hackmd.io/4LLHKj9AQoOnVC9cDs9J_w -->
 8. 31/03 idl_08 Classification de documents <!-- https://hackmd.io/RKmHpKhbSNOJPY4-abwYvg -->
 10. 07/04 idl_09 Intro aux gros modèles de langue
 11. 14/04 idl_10 Projet
@@ -29,7 +29,7 @@ author_profile: true
 - TP4 L3X 18/02 <a href="https://hackmd.io/ESBGG8uUQoK_qTneaZMgHQ?view"> Génération de texte avec des chaînes de Markov</a>
 - TP5 L3X 04/03 <a href="https://hackmd.io/oCYeIz7lQDWmo1FxOVmZ3A"> HMM et POS-tagging </a>
 - TP6 L3X 18/03 <a href="https://hackmd.io/ObRn2W1PTo-NcPZEUbHhEQ"> Word Vectors </a>
-- TP7 L3X 25/03 
+- TP7 L3X 25/03 <a href="https://hackmd.io/LzYufqQtTh277vu5F87ibA"> Système de recommandation de films </a>
 - TP8 L3X 01/04 
 - TP9 L3X 08/04 
 - Soutenances L3X ~ 29/04
