@@ -7,6 +7,13 @@ author_profile: true
 
 ------
 <h2 id="2021">Pratique des machines</h2> 
+-  <a href="https://pads.up8.edu/uK04VBE4SQi9klfvEKnrhA"> Jour 1 </a>
+
+
+
+<!--
+
+
 - <a href="/assets/cours/PdM/PdM_2526_TP6.pdf">TP6</a> 
 - contrôle de connaissance au retour de la pause pédagogique 
 - <a href="/assets/cours/PdM/PdM_2526_TP5.pdf">TP5</a> 
