@@ -7,6 +7,9 @@ author_profile: true
 
 ------
 <h2 id="2021">Pratique des machines</h2> 
+
+
+-  <a href="https://www.pika-platform.org/page/UUXCJ3NN4DD3ND5A"> "Test Pika" de démarrage de licence (anonyme et non noté !) </a>
 -  <a href="https://pads.up8.edu/uK04VBE4SQi9klfvEKnrhA"> Jour 1 </a>
 
 
@@ -21,10 +24,6 @@ author_profile: true
 - <a href="/assets/cours/PdM/PdM_2526_TP3.pdf">TP3</a> 
 - <a href="/assets/cours/PdM/PdM_2526_TP2.pdf">TP2</a> 
 - <a href="/assets/cours/PdM/PdM_2526_TP1.pdf">TP1</a> 
-
-
-<!--
-
 - <a href="/assets/cours/PdM/PdM_2223_TP8.pdf">TP8</a>
 - <a href="/assets/cours/PdM/PdM_2223_TP8_corrige.pdf">TP8_corrige</a>
 - <a href="/assets/cours/PdM/liste_francais.txt">liste_francais.txt</a>
