@@ -19,7 +19,7 @@ author_profile: true
 7. 24/03 <a href="https://hackmd.io/4LLHKj9AQoOnVC9cDs9J_w"> idl_07 Similarité entre documents TF/IDF <!-- https://hackmd.io/4LLHKj9AQoOnVC9cDs9J_w -->
 8. 31/03 idl_08 Classification de documents <!-- https://hackmd.io/RKmHpKhbSNOJPY4-abwYvg -->
 10. 07/04 idl_09 Intro aux gros modèles de langue
-11. 14/04 idl_10 Projet
+11. 14/04 Contrôle de connaissances le 14/04
 
 ## Planning TP L3-X le mercredi de 12h à 15h en A175 A. Millour
 
