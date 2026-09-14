@@ -32,7 +32,8 @@ author_profile: true
 - TP7 L3X 25/03 <a href="https://hackmd.io/LzYufqQtTh277vu5F87ibA"> Système de recommandation de films </a>
 - TP8 L3X 01/04 
 - TP9 L3X 08/04 
-- Soutenances L3X ~ 29/04
+- Contrôle de connaissances le 14/04
+
 
 ## Planning TP L3-Y le lundi de 15h à 18h L. Cave
 
@@ -42,10 +43,10 @@ author_profile: true
 - TP4 L3Y 09/03 
 - TP5 L3Y 16/03 
 - TP6 L3Y 23/03 
-- TP7 L3Y 30/03
-- TP8 L3Y 06/04
-- TP9 L3Y 13/04
-- Soutenances L3Y ~ 27/04
+- TP7 L3Y 30/03 
+- TP8 L3Y 06/04 
+- TP9 L3Y 13/04  
+- Contrôle de connaissances le 14/04
 
 
 

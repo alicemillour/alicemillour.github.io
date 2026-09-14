@@ -9,7 +9,7 @@ author_profile: true
 <h2 id="2021">Pratique des machines</h2> 
 
 
--  <a href="https://www.pika-platform.org/page/UUXCJ3NN4DD3ND5A"> "Test Pika" de démarrage de licence (anonyme et non noté !) </a>
+-  <a href="https://www.pika-platform.org/enter/pika_fr"> "Test Pika" de démarrage de licence (anonyme et non noté !) </a>
 -  <a href="https://pads.up8.edu/uK04VBE4SQi9klfvEKnrhA"> Jour 1 </a>
 
 
