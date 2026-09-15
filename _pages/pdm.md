@@ -13,8 +13,7 @@ author_profile: true
 -  <a href="https://pads.up8.edu/uK04VBE4SQi9klfvEKnrhA"> Jour 1 </a>
 -  <a href="https://pads.up8.edu/bJGwobAORwK8ohMWvi81Mw?view"> Jour 1 / Partie 2 </a>
 -  <a href="https://pads.up8.edu/yxR2at_SSFy-KQc3PP7xlQ"> Jour 2 / Préambule </a>
--  <a href="/assets/cours/template.md">template.md</a> 
-
+-  <a href="https://pads.up8.edu/QU3L7jSTQBaj6--WfwaFWA"> Jour 2 </a> 
 <!--
 
 
