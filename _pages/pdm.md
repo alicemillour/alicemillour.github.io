@@ -12,7 +12,8 @@ author_profile: true
 -  <a href="https://www.pika-platform.org/enter/pika_fr"> "Test Pika" de démarrage de licence (anonyme et non noté !) </a>
 -  <a href="https://pads.up8.edu/uK04VBE4SQi9klfvEKnrhA"> Jour 1 </a>
 -  <a href="https://pads.up8.edu/bJGwobAORwK8ohMWvi81Mw?view"> Jour 1 / Partie 2 </a>
-
+-  <a href="https://pads.up8.edu/yxR2at_SSFy-KQc3PP7xlQ"> Jour 2 / Préambule </a>
+-  <a href="/assets/template.md">template.md</a> 
 
 <!--
 
