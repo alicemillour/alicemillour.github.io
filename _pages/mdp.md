@@ -7,9 +7,8 @@ author_profile: true
 - <a href="https://pads.up8.edu/s/bMRoOO2dZ">Prise en main de l'espace de travail - Paris 8</a> 
 - <a href="https://pads.up8.edu/paq-szN_QZqERE7BpU6Wmw"> Présentation du cours </a>
 
-<h3 id="mdlp-1"> [intensif] Seance 1 - 16/09/2025 </h3>
+<h3 id="mdlp-1"> [intensif] Seance 1 - 01/10/2026 </h3>
 - <a href="https://pads.up8.edu/vVg_LRVSRbCEwaLhne1i8A?view"> Cours 1 - Flot de Contrôle </a>
-- Solution possible avec boucles et fonctions : <a href="/assets/cours/MdlP/mdlp01-tartine_pseudocode.txt">mdlp01-tartine_pseudocode.txt</a> 
 <br>
 - <a href="https://codeinplace.stanford.edu/"> Stanford Karel </a>
 - <a href="https://codeinplace.stanford.edu/public/ide/a/housekarel"> Documentation Karel (à gauche : Docs) </a>
@@ -17,6 +16,12 @@ author_profile: true
 <h3 id="mdlp-2">[intensif] Seance 2 - 17/09/2025 </h3>
 - <a href="https://pads.up8.edu/IUIScxQJQiGyHFcUB1eKfg"> Cours 2 - Programmation avec Karel </a>
 - <a href="/assets/cours/MdlP/pyramide-struct.py"> Structure solution pyramide </a>
+
+
+<!--
+- Solution possible avec boucles et fonctions : <a href="/assets/cours/MdlP/mdlp01-tartine_pseudocode.txt">mdlp01-tartine_pseudocode.txt</a> 
+
+------
 
 <h3 id="mdlp-2"> Seance 1 - 25/09/2025 </h3>
 - <a href="https://pads.up8.edu/AzipMsauRouCjJWSrXOzRQ?view"> Cours 3 - Variables et Fonctions en Python </a>
@@ -26,7 +31,7 @@ author_profile: true
 <h3 id="mdlp-2"> Seance x - 02/10/2025 [blocage] </h3>
 - <a href="https://pads.up8.edu/X2h4TjoxS8e8enJG6TTOTA#"> Cours 4 - Erreurs, exceptions, boucles imbriquées, récursivité</a>
 - <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
-<!--- <a href="/assets/cours/MdlP/cours4/cours4-correction.py"> cours4-correction.py </a>-->
+<a href="/assets/cours/MdlP/cours4/cours4-correction.py"> cours4-correction.py </a>
 
 <h3 id="mdlp-2"> Seance 2 - 09/10/2025 </h3>
 - <a href="https://pads.up8.edu/n3xn9zxuR96RWbo-our-mA?view"> Cours 5 - Récursivité, portée et passage de variable, compréhension de listes</a>
@@ -57,7 +62,7 @@ author_profile: true
 
 <h3 id="mdlp-2"> Seance 10 - 11/12/2025 </h3>
 
-
+-->
 <!--
 
 ------
