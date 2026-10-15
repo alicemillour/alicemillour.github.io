@@ -16,6 +16,9 @@ author_profile: true
 -  <a href="https://pads.up8.edu/QU3L7jSTQBaj6--WfwaFWA"> Jour 2 </a>
 - <a href="https://pads.up8.edu/9yA_H8fJSaK2CGwBR3RP4g?view"> Jour 3 </a>
 
+- <a href="/assets/cours/PdM/PdM_exercice1.sh">PdM_exercice1.sh</a> 
+- <a href="/assets/cours/PdM/PdM_exercice2.sh">PdM_exercice2.sh</a> 
+
 <!--
 
 
