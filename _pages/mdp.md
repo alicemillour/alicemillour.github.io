@@ -7,15 +7,21 @@ author_profile: true
 - <a href="https://pads.up8.edu/s/bMRoOO2dZ">Prise en main de l'espace de travail - Paris 8</a> 
 - <a href="https://pads.up8.edu/paq-szN_QZqERE7BpU6Wmw"> Présentation du cours </a>
 
-<h3 id="mdlp-1"> [intensif] Seance 1 - 01/10/2026 </h3>
+<h3 id="mdlp-1">  Seance 1 </h3>
 - <a href="https://pads.up8.edu/vVg_LRVSRbCEwaLhne1i8A?view"> Cours 1 - Flot de Contrôle </a>
 <br>
 - <a href="https://codeinplace.stanford.edu/"> Stanford Karel </a>
 - <a href="https://codeinplace.stanford.edu/public/ide/a/housekarel"> Documentation Karel (à gauche : Docs) </a>
 
-<h3 id="mdlp-2">[intensif] Seance 2 - 17/09/2025 </h3>
+<h3 id="mdlp-2"> Seance 2  </h3>
 - <a href="https://pads.up8.edu/IUIScxQJQiGyHFcUB1eKfg"> Cours 2 - Programmation avec Karel </a>
 - <a href="/assets/cours/MdlP/pyramide-struct.py"> Structure solution pyramide </a>
+
+<h3 id="mdlp-2"> Seance 3  </h3>
+- <a href="https://pads.up8.edu/AzipMsauRouCjJWSrXOzRQ?view"> Cours 3 - Variables et Fonctions en Python </a>
+- <a href="/assets/cours/MdlP/cours3/erreurs_en_python.py"> erreurs_en_python.py </a>
+- <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
+
 
 
 <!--
