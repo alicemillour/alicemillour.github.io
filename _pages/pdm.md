@@ -18,9 +18,10 @@ author_profile: true
 
 <h2 id="2021">Corrigés Jour 3 intensif</h2> 
 
-
 - <a href="/assets/cours/PdM/PdM_exercice1.sh">PdM_exercice1.sh</a> 
 - <a href="/assets/cours/PdM/PdM_exercice2.sh">PdM_exercice2.sh</a> 
+
+<h2 id="2021">TP Regex</h2> 
 
 - <a href="/assets/cours/PdM/PdM_2627_TP-Regex.pdf">TP Regex</a> 
 
