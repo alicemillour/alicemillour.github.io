@@ -22,6 +22,8 @@ author_profile: true
 - <a href="/assets/cours/PdM/PdM_exercice1.sh">PdM_exercice1.sh</a> 
 - <a href="/assets/cours/PdM/PdM_exercice2.sh">PdM_exercice2.sh</a> 
 
+- <a href="/assets/cours/PdM/PdM_2627_TP-Regex.pdf">TP Regex</a> 
+
 <!--
 
 
