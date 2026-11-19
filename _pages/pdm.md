@@ -24,6 +24,7 @@ author_profile: true
 <h2 id="2021">TP Regex</h2> 
 
 - <a href="/assets/cours/PdM/PdM_2627_TP-Regex.pdf">TP Regex</a> 
+- <a href="/assets/cours/PdM/PdM_2627_TP-Regex2.pdf">TP Rege0x 2</a> 
 
 <!--
 
