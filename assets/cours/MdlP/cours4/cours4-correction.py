@@ -85,6 +85,7 @@ def est_palindrome(chaine):
     inverse_list = []
     for i in range(len(chaine)):
         chaine_list.append(chaine[i])
+        
     for i in range(len(chaine)):
         inverse_list.append(chaine[len(chaine) - i - 1])
     print(chaine_list)
@@ -113,6 +114,16 @@ def est_palindrome_ameliore(chaine):
         return True
     else :
         return False
+
+def est_palindrome_recursif(texte) -> bool:
+    # Cas de base : chaîne vide ou d'un seul caractère  => palindrome
+    if len(texte) <= 1:
+        return True
+    # Si le premier et le dernier caractère sont différents => pas palindrome
+    if texte[0] != texte[-1]:
+        return False
+    # Appel récursif sur la sous-chaîne sans les extrémités
+    return est_palindrome(texte[1:-1])
 
     
 #################### Programme Principal ############################

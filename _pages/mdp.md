@@ -22,7 +22,9 @@ author_profile: true
 - <a href="/assets/cours/MdlP/cours3/erreurs_en_python.py"> erreurs_en_python.py </a>
 - <a href="/assets/cours/MdlP/cours3/cours3-correction.zip"> cours3-correction.zip </a>
 
-
+<h3 id="mdlp-2"> Seance 4  </h3>
+- <a href="https://pads.up8.edu/X2h4TjoxS8e8enJG6TTOTA#"> Cours 4 - Erreurs, exceptions, boucles imbriquées, récursivité</a>
+- <a href="/assets/cours/MdlP/cours4/cours4-correction.py"> cours4-correction.py </a>
 
 <!--
 - Solution possible avec boucles et fonctions : <a href="/assets/cours/MdlP/mdlp01-tartine_pseudocode.txt">mdlp01-tartine_pseudocode.txt</a> 
